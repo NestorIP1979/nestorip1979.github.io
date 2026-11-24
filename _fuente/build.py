@@ -77,8 +77,12 @@ def portada(n, grande=False):
         pagina_archivo = "https://commons.wikimedia.org/wiki/File:" + img["archivo"].replace(" ", "_")
         credito = (f'Foto: <a href="{e(pagina_archivo)}" rel="nofollow noopener" target="_blank">{e(img["autor"])}</a>, '
                    f'<a href="{e(img["licencia_url"])}" rel="nofollow noopener" target="_blank">{e(img["licencia"])}</a>')
+        estilo = ""
+        if img.get("escala") or img.get("posicion"):
+            estilo = (f' style="transform:scale({float(img.get("escala", 1))});'
+                      f'transform-origin:{e(img.get("posicion", "50% 50%"))}"')
         return (f'<figure class="{cls}"><img src="{img_url(img["archivo"], 1280 if grande else 800)}" '
-                f'alt="{e(img["alt"])}" loading="lazy" decoding="async">'
+                f'alt="{e(img["alt"])}" loading="lazy" decoding="async"{estilo}>'
                 f'<figcaption>{credito}</figcaption></figure>')
     emoji, c1, c2 = CAT_ESTILO.get(n["categoria"], DEFECTO)
     cls = "cover big" if grande else "cover"
