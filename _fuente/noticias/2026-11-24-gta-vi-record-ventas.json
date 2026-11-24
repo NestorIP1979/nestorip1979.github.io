@@ -1,0 +1,36 @@
+{
+  "slug": "gta-vi-record-ventas-primer-dia",
+  "titulo": "GTA VI hace historia: 3.790 millones de dólares en su primer día a la venta",
+  "fecha": "2026-11-24",
+  "categoria": "Videojuegos",
+  "resumen": "Tras 13 años de espera, Grand Theft Auto VI se ha convertido en el mayor estreno de la historia del entretenimiento. Repasamos las cifras oficiales y las estimaciones de los analistas.",
+  "cuerpo": [
+    {"p": "Trece años después de GTA V, Rockstar Games lanzó por fin <strong>Grand Theft Auto VI</strong> el 19 de noviembre para PlayStation 5 y Xbox Series X|S. Y las cifras de su primera semana confirman lo que casi todo el sector daba por hecho: estamos ante el lanzamiento más grande que ha visto nunca la industria del entretenimiento."},
+    {"h2": "Las cifras oficiales"},
+    {"p": "El 20 de noviembre, Take-Two Interactive (la empresa matriz de Rockstar) comunicó que el juego había alcanzado <strong>3.790 millones de dólares en ventas</strong> al cierre de su primer día. Esa cantidad incluye las reservas y las compras del día de lanzamiento."},
+    {"p": "La compañía también confirmó que se habían vendido <strong>32,5 millones de copias</strong> antes del estreno. Es la mayor cifra de reservas de la historia de los videojuegos y supera con holgura las previsiones: la entidad financiera Wells Fargo, por ejemplo, esperaba unos 22 millones de unidades hasta el día de salida."},
+    {"h2": "Lo que estiman los analistas"},
+    {"p": "Más allá de los datos oficiales, la firma Alinea Analytics calcula que GTA VI habría vendido ya <strong>unos 44,9 millones de copias</strong> en sus cuatro primeros días, con ingresos que superarían los 4.000 millones de dólares. Conviene tomar esta cifra con cautela: es una estimación externa y Take-Two no la ha confirmado."},
+    {"p": "La consultora Sensor Tower, por su parte, ya había calculado que solo las reservas generaron unos 2.360 millones de dólares antes de que el juego llegara a las tiendas."},
+    {"h2": "La crítica también se rinde"},
+    {"p": "El éxito no es solo comercial. GTA VI tiene una nota de <strong>99 sobre 100 en Metacritic</strong>, la más alta de todos los lanzamientos de 2026, por encima incluso del remake de The Legend of Zelda: Ocarina of Time para Switch 2."},
+    {"h2": "¿Superará a GTA V?"},
+    {"p": "Es la gran pregunta. GTA V, lanzado en 2013, ronda ya los <strong>230 millones de copias</strong> vendidas según Take-Two, lo que lo convierte en uno de los juegos más vendidos de todos los tiempos. GTA VI parte con una ventaja enorme, pero todavía no ha anunciado versión para PC, que fue clave en la longevidad de su predecesor."},
+    {"p": "Pese a todo, Take-Two ha mantenido sin cambios sus previsiones de ingresos para el año fiscal, una señal de prudencia que ha llamado la atención de los inversores."},
+    {"h2": "En resumen"},
+    {"ul": [
+      "Lanzamiento: 19 de noviembre de 2026 (PS5 y Xbox Series X|S).",
+      "Ventas oficiales tras el primer día: 3.790 millones de dólares.",
+      "Copias vendidas antes del estreno: 32,5 millones (récord histórico).",
+      "Estimación de Alinea Analytics: 44,9 millones de copias en cuatro días.",
+      "Nota en Metacritic: 99/100."
+    ]}
+  ],
+  "fuentes": [
+    {"nombre": "CNN – GTA VI sales blew past $3 billion in a single day", "url": "https://www.cnn.com/2026/11/20/media/gta-vi-launch-sales-numbers"},
+    {"nombre": "TweakTown – GTA 6 makes $3.79 billion with 32.5 million copies sold", "url": "https://www.tweaktown.com/news/114806/gta-6-makes-dollars3-79-billion-with-32-5-million-copies-sold/index.html"},
+    {"nombre": "Instant Gaming News – GTA VI has reportedly already sold about 45 million copies", "url": "https://news.instant-gaming.com/en"},
+    {"nombre": "Wikipedia – 2026 in video games (notas de Metacritic)", "url": "https://en.wikipedia.org/wiki/2026_in_video_games"},
+    {"nombre": "Que.es – Ventas de la saga GTA", "url": "https://www.que.es/2026/05/23/ventas-gta-saga-reparto-copias/"}
+  ]
+}
