@@ -42,3 +42,7 @@ nav a:hover{color:var(--acc)}
 .foot{border-top:1px solid var(--line);margin-top:48px;padding:24px 0;font-size:.9rem}
 .foot a{color:var(--muted)}
 .post .cover{aspect-ratio:21/9}
+.cover.photo{position:relative;margin:0;background:#222;display:block}
+.cover.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.cover.photo figcaption{position:absolute;right:0;bottom:0;background:rgba(0,0,0,.55);color:#fff;font-size:.68rem;padding:3px 8px;border-top-left-radius:8px}
+.cover.photo figcaption a{color:#fff}

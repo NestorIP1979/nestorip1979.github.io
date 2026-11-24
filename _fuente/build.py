@@ -65,7 +65,21 @@ def ad(slot):
             f'<script>(adsbygoogle=window.adsbygoogle||[]).push({{}});</script></div>')
 
 
+def img_url(archivo, ancho=1280):
+    from urllib.parse import quote
+    return f"https://commons.wikimedia.org/wiki/Special:FilePath/{quote(archivo)}?width={ancho}"
+
+
 def portada(n, grande=False):
+    img = n.get("imagen")
+    if img:
+        cls = "cover photo big" if grande else "cover photo"
+        pagina_archivo = "https://commons.wikimedia.org/wiki/File:" + img["archivo"].replace(" ", "_")
+        credito = (f'Foto: <a href="{e(pagina_archivo)}" rel="nofollow noopener" target="_blank">{e(img["autor"])}</a>, '
+                   f'<a href="{e(img["licencia_url"])}" rel="nofollow noopener" target="_blank">{e(img["licencia"])}</a>')
+        return (f'<figure class="{cls}"><img src="{img_url(img["archivo"], 1280 if grande else 800)}" '
+                f'alt="{e(img["alt"])}" loading="lazy" decoding="async">'
+                f'<figcaption>{credito}</figcaption></figure>')
     emoji, c1, c2 = CAT_ESTILO.get(n["categoria"], DEFECTO)
     cls = "cover big" if grande else "cover"
     return (f'<div class="{cls}" style="--c1:{c1};--c2:{c2}" aria-hidden="true">'
@@ -137,7 +151,7 @@ def pagina(titulo, contenido, descripcion=None, canonical="/", extra_head=""):
 def tarjeta(n, grande=False):
     cls = "card big" if grande else "card"
     return f"""<article class="{cls}">
-  <a href="{n['url']}">{portada(n, grande)}</a>
+  {portada(n, grande)}
   <div class="card-body">
     <p class="meta"><a class="tag" href="/categoria/{n['cat_slug']}.html">{e(n['categoria'])}</a> · <time datetime="{n['fecha']}">{fecha_larga(n['fecha'])}</time></p>
     <h2><a href="{n['url']}">{e(n['titulo'])}</a></h2>

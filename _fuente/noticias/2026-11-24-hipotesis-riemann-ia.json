@@ -5,33 +5,87 @@
   "categoria": "Ciencia",
   "resumen": "Un matemático asegura haber demostrado, con ayuda de una inteligencia artificial, un problema abierto desde 1859 y premiado con un millón de dólares. Pero la prueba todavía no está verificada.",
   "cuerpo": [
-    {"p": "La noticia científica de la semana llegó el 20 de noviembre en forma de una breve nota de cuatro páginas. En ella, el matemático <strong>Levent Alpöge</strong>, que trabaja en la empresa de inteligencia artificial Anthropic, afirmaba creer que había encontrado, junto con el modelo de IA Claude, una demostración de la <strong>hipótesis de Riemann</strong>."},
-    {"p": "Si la afirmación se confirma, sería uno de los mayores acontecimientos de la historia de las matemáticas. Pero, de momento, <strong>es solo eso: una afirmación pendiente de verificar</strong>."},
-    {"h2": "¿Qué es la hipótesis de Riemann?"},
-    {"p": "La formuló el matemático alemán Bernhard Riemann en 1859 y tiene que ver con los números primos, los \"ladrillos\" con los que se construyen todos los demás números. Los primos parecen aparecer de forma caótica, pero Riemann descubrió que su distribución está ligada a los ceros de una función matemática llamada <em>función zeta</em>."},
-    {"p": "La hipótesis dice, simplificando mucho, que todos esos ceros importantes están colocados sobre una misma línea recta. Se ha comprobado con ordenadores para billones de casos, pero nadie había conseguido demostrar que se cumpla <em>siempre</em>. Es uno de los siete Problemas del Milenio del Instituto Clay, y quien lo resuelva puede optar a <strong>un premio de un millón de dólares</strong>."},
-    {"h2": "Qué dice exactamente el anuncio"},
-    {"p": "Alpöge no ha publicado un artículo convencional, sino una demostración escrita en <strong>Lean</strong>, un lenguaje informático que comprueba los razonamientos paso a paso. Según él, la prueba cubre también la versión <em>generalizada</em> de la hipótesis. El propio autor reconoce que el argumento es extremadamente largo y difícil de leer para una persona."},
-    {"p": "Además, pocas horas después del anuncio surgió una <strong>segunda afirmación de prueba</strong> vinculada a la Universidad de Stanford, lo que ha añadido todavía más expectación (y confusión) al asunto."},
-    {"h2": "Qué opinan los expertos"},
-    {"p": "La comunidad matemática ha reaccionado con una mezcla de asombro y prudencia. James Maynard, de la Universidad de Oxford y medalla Fields en 2022, ha señalado que, si el resultado se sostiene, sería un hito histórico, aunque comprobar la verificación en Lean llevará tiempo y no explicará necesariamente <em>por qué</em> funciona la prueba."},
-    {"p": "Youness Lamzouri, de la Universidad de Lorena, ha recordado que entender la demostración podría llevar meses o incluso años."},
-    {"h2": "Un precedente reciente"},
-    {"p": "No es la primera vez que la IA se acerca a este problema. En agosto de 2026, Anthropic ya publicó que una versión experimental de Claude había elevado del 41,6 % al 67,2 % la proporción mínima demostrada de ceros que cumplen la hipótesis. Aquel avance fue revisado por matemáticos y calificado como una contribución interesante, pero no resolvía el problema completo."},
-    {"h2": "Por qué hay que ser prudentes"},
-    {"ul": [
-      "La prueba <strong>no ha sido verificada</strong> de forma independiente.",
-      "Hay <strong>dos afirmaciones distintas</strong> en circulación al mismo tiempo.",
-      "El anuncio procede de un empleado de una empresa de IA, lo que hace aún más importante la revisión externa.",
-      "Muchas \"pruebas\" de la hipótesis de Riemann han resultado erróneas a lo largo de los años."
-    ]},
-    {"p": "Seguiremos la historia y actualizaremos en cuanto haya una verificación independiente."}
+    {
+      "p": "La noticia científica de la semana llegó el 20 de noviembre en forma de una breve nota de cuatro páginas. En ella, el matemático <strong>Levent Alpöge</strong>, que trabaja en la empresa de inteligencia artificial Anthropic, afirmaba creer que había encontrado, junto con el modelo de IA Claude, una demostración de la <strong>hipótesis de Riemann</strong>."
+    },
+    {
+      "p": "Si la afirmación se confirma, sería uno de los mayores acontecimientos de la historia de las matemáticas. Pero, de momento, <strong>es solo eso: una afirmación pendiente de verificar</strong>."
+    },
+    {
+      "h2": "¿Qué es la hipótesis de Riemann?"
+    },
+    {
+      "p": "La formuló el matemático alemán Bernhard Riemann en 1859 y tiene que ver con los números primos, los \"ladrillos\" con los que se construyen todos los demás números. Los primos parecen aparecer de forma caótica, pero Riemann descubrió que su distribución está ligada a los ceros de una función matemática llamada <em>función zeta</em>."
+    },
+    {
+      "p": "La hipótesis dice, simplificando mucho, que todos esos ceros importantes están colocados sobre una misma línea recta. Se ha comprobado con ordenadores para billones de casos, pero nadie había conseguido demostrar que se cumpla <em>siempre</em>. Es uno de los siete Problemas del Milenio del Instituto Clay, y quien lo resuelva puede optar a <strong>un premio de un millón de dólares</strong>."
+    },
+    {
+      "h2": "Qué dice exactamente el anuncio"
+    },
+    {
+      "p": "Alpöge no ha publicado un artículo convencional, sino una demostración escrita en <strong>Lean</strong>, un lenguaje informático que comprueba los razonamientos paso a paso. Según él, la prueba cubre también la versión <em>generalizada</em> de la hipótesis. El propio autor reconoce que el argumento es extremadamente largo y difícil de leer para una persona."
+    },
+    {
+      "p": "Además, pocas horas después del anuncio surgió una <strong>segunda afirmación de prueba</strong> vinculada a la Universidad de Stanford, lo que ha añadido todavía más expectación (y confusión) al asunto."
+    },
+    {
+      "h2": "Qué opinan los expertos"
+    },
+    {
+      "p": "La comunidad matemática ha reaccionado con una mezcla de asombro y prudencia. James Maynard, de la Universidad de Oxford y medalla Fields en 2022, ha señalado que, si el resultado se sostiene, sería un hito histórico, aunque comprobar la verificación en Lean llevará tiempo y no explicará necesariamente <em>por qué</em> funciona la prueba."
+    },
+    {
+      "p": "Youness Lamzouri, de la Universidad de Lorena, ha recordado que entender la demostración podría llevar meses o incluso años."
+    },
+    {
+      "h2": "Un precedente reciente"
+    },
+    {
+      "p": "No es la primera vez que la IA se acerca a este problema. En agosto de 2026, Anthropic ya publicó que una versión experimental de Claude había elevado del 41,6 % al 67,2 % la proporción mínima demostrada de ceros que cumplen la hipótesis. Aquel avance fue revisado por matemáticos y calificado como una contribución interesante, pero no resolvía el problema completo."
+    },
+    {
+      "h2": "Por qué hay que ser prudentes"
+    },
+    {
+      "ul": [
+        "La prueba <strong>no ha sido verificada</strong> de forma independiente.",
+        "Hay <strong>dos afirmaciones distintas</strong> en circulación al mismo tiempo.",
+        "El anuncio procede de un empleado de una empresa de IA, lo que hace aún más importante la revisión externa.",
+        "Muchas \"pruebas\" de la hipótesis de Riemann han resultado erróneas a lo largo de los años."
+      ]
+    },
+    {
+      "p": "Seguiremos la historia y actualizaremos en cuanto haya una verificación independiente."
+    }
   ],
   "fuentes": [
-    {"nombre": "IBM Think – Anthropic mathematician claims AI helped solve a 167-year-old math mystery", "url": "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof"},
-    {"nombre": "The Washington Post – Using AI, mathematician claims to have solved Riemann hypothesis", "url": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/"},
-    {"nombre": "Phys.org – Anthropic researcher says he and Claude proved the Riemann hypothesis", "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html"},
-    {"nombre": "Scientific American – Dueling claims of Riemann hypothesis proofs emerge", "url": "https://www.scientificamerican.com/"},
-    {"nombre": "Anthropic – Learning more about Claude's mathematical capabilities (agosto 2026)", "url": "https://www.anthropic.com/news/riemann-zeta"}
-  ]
+    {
+      "nombre": "IBM Think – Anthropic mathematician claims AI helped solve a 167-year-old math mystery",
+      "url": "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof"
+    },
+    {
+      "nombre": "The Washington Post – Using AI, mathematician claims to have solved Riemann hypothesis",
+      "url": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/"
+    },
+    {
+      "nombre": "Phys.org – Anthropic researcher says he and Claude proved the Riemann hypothesis",
+      "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html"
+    },
+    {
+      "nombre": "Scientific American – Dueling claims of Riemann hypothesis proofs emerge",
+      "url": "https://www.scientificamerican.com/"
+    },
+    {
+      "nombre": "Anthropic – Learning more about Claude's mathematical capabilities (agosto 2026)",
+      "url": "https://www.anthropic.com/news/riemann-zeta"
+    }
+  ],
+  "imagen": {
+    "archivo": "Riemann-Zeta-Func.png",
+    "alt": "Representación en colores de la función zeta de Riemann en el plano complejo",
+    "autor": "Empetrisor",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
 }
