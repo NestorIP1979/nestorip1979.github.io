@@ -1,62 +1,56 @@
 {
   "slug": "hipotesis-riemann-prueba-inteligencia-artificial",
-  "titulo": "¿Ha resuelto una IA el mayor enigma de las matemáticas? Lo que sabemos de la prueba de la hipótesis de Riemann",
+  "titulo": "¿Una IA ha resuelto el problema matemático del millón de dólares? Lo que se sabe (y lo que no)",
   "fecha": "2026-11-24",
   "categoria": "Ciencia",
-  "resumen": "Un matemático asegura haber demostrado, con ayuda de una inteligencia artificial, un problema abierto desde 1859 y premiado con un millón de dólares. Pero la prueba todavía no está verificada.",
+  "resumen": "Un matemático dice que, con ayuda de la IA Claude, ha demostrado la hipótesis de Riemann, un enigma que trae de cabeza a los genios desde 1859. Te lo explicamos sin fórmulas y con las dudas que hay encima de la mesa.",
   "cuerpo": [
     {
-      "p": "La noticia científica de la semana llegó el 20 de noviembre en forma de una breve nota de cuatro páginas. En ella, el matemático <strong>Levent Alpöge</strong>, que trabaja en la empresa de inteligencia artificial Anthropic, afirmaba creer que había encontrado, junto con el modelo de IA Claude, una demostración de la <strong>hipótesis de Riemann</strong>."
+      "p": "Imagina un problema tan difícil que lleva más de 160 años sin resolverse, que tiene un premio de <strong>un millón de dólares</strong> esperando a quien lo consiga… y que, de repente, alguien dice haberlo resuelto con ayuda de una inteligencia artificial. Eso es lo que pasó el 20 de noviembre, y por eso las redes de ciencia llevan días echando humo."
     },
     {
-      "p": "Si la afirmación se confirma, sería uno de los mayores acontecimientos de la historia de las matemáticas. Pero, de momento, <strong>es solo eso: una afirmación pendiente de verificar</strong>."
+      "h2": "Primero: ¿qué es eso de la hipótesis de Riemann?"
     },
     {
-      "h2": "¿Qué es la hipótesis de Riemann?"
+      "p": "Va de <strong>números primos</strong>, esos que solo se pueden dividir entre 1 y entre sí mismos (2, 3, 5, 7, 11…). Parecen salir al azar, sin ningún patrón. Pero en 1859 el matemático alemán Bernhard Riemann sospechó que sí había un orden escondido, relacionado con una función matemática llamada <em>zeta</em>."
     },
     {
-      "p": "La formuló el matemático alemán Bernhard Riemann en 1859 y tiene que ver con los números primos, los \"ladrillos\" con los que se construyen todos los demás números. Los primos parecen aparecer de forma caótica, pero Riemann descubrió que su distribución está ligada a los ceros de una función matemática llamada <em>función zeta</em>."
+      "p": "Su idea, muy simplificada: ciertos puntos clave de esa función están todos alineados sobre una misma recta. Los ordenadores lo han comprobado para billones de casos y siempre se cumple. El problema es que comprobar muchos casos no es lo mismo que <em>demostrar</em> que se cumple siempre. Y eso no lo había conseguido nadie. Por eso es uno de los siete Problemas del Milenio, con su millón de dólares de premio."
     },
     {
-      "p": "La hipótesis dice, simplificando mucho, que todos esos ceros importantes están colocados sobre una misma línea recta. Se ha comprobado con ordenadores para billones de casos, pero nadie había conseguido demostrar que se cumpla <em>siempre</em>. Es uno de los siete Problemas del Milenio del Instituto Clay, y quien lo resuelva puede optar a <strong>un premio de un millón de dólares</strong>."
+      "h2": "¿Qué ha pasado exactamente?"
     },
     {
-      "h2": "Qué dice exactamente el anuncio"
+      "p": "<strong>Levent Alpöge</strong>, un matemático que trabaja en Anthropic (la empresa que crea la IA Claude), publicó una nota de solo cuatro páginas diciendo que cree haber encontrado la demostración trabajando con Claude. Y no una demostración cualquiera: según él, también vale para una versión todavía más general del problema."
     },
     {
-      "p": "Alpöge no ha publicado un artículo convencional, sino una demostración escrita en <strong>Lean</strong>, un lenguaje informático que comprueba los razonamientos paso a paso. Según él, la prueba cubre también la versión <em>generalizada</em> de la hipótesis. El propio autor reconoce que el argumento es extremadamente largo y difícil de leer para una persona."
+      "p": "Lo curioso es el formato. En lugar de un artículo científico de los de siempre, la prueba está escrita en <strong>Lean</strong>, un lenguaje de programación que revisa cada paso del razonamiento como si fuera un corrector automático. El propio autor admite que es larguísima y muy difícil de leer para un humano."
     },
     {
-      "p": "Además, pocas horas después del anuncio surgió una <strong>segunda afirmación de prueba</strong> vinculada a la Universidad de Stanford, lo que ha añadido todavía más expectación (y confusión) al asunto."
+      "p": "Y para darle más emoción, a las pocas horas apareció <strong>otra afirmación de prueba</strong>, esta vez relacionada con la Universidad de Stanford. Dos posibles soluciones el mismo día para un problema que lleva siglo y medio sin resolverse. Casi nada."
     },
     {
-      "h2": "Qué opinan los expertos"
+      "h2": "Vale, pero ¿es verdad?"
     },
     {
-      "p": "La comunidad matemática ha reaccionado con una mezcla de asombro y prudencia. James Maynard, de la Universidad de Oxford y medalla Fields en 2022, ha señalado que, si el resultado se sostiene, sería un hito histórico, aunque comprobar la verificación en Lean llevará tiempo y no explicará necesariamente <em>por qué</em> funciona la prueba."
+      "p": "Aquí viene el \"ojo\": <strong>todavía no está confirmado</strong>. Los matemáticos están entre emocionados y prudentes. James Maynard, de Oxford y ganador de la medalla Fields, cree que sería algo histórico si se confirma, pero avisa de que revisarla llevará tiempo y de que una comprobación automática no explica <em>por qué</em> funciona. Youness Lamzouri, de la Universidad de Lorena, calcula que entenderla del todo puede llevar meses o incluso años."
     },
     {
-      "p": "Youness Lamzouri, de la Universidad de Lorena, ha recordado que entender la demostración podría llevar meses o incluso años."
+      "p": "No es la primera vez que esta IA se acerca al problema: en agosto, Anthropic ya contó que una versión experimental de Claude había mejorado un récord relacionado con él. Pero aquello era un paso intermedio, no la solución."
     },
     {
-      "h2": "Un precedente reciente"
-    },
-    {
-      "p": "No es la primera vez que la IA se acerca a este problema. En agosto de 2026, Anthropic ya publicó que una versión experimental de Claude había elevado del 41,6 % al 67,2 % la proporción mínima demostrada de ceros que cumplen la hipótesis. Aquel avance fue revisado por matemáticos y calificado como una contribución interesante, pero no resolvía el problema completo."
-    },
-    {
-      "h2": "Por qué hay que ser prudentes"
+      "h2": "Por qué conviene esperar antes de celebrarlo"
     },
     {
       "ul": [
-        "La prueba <strong>no ha sido verificada</strong> de forma independiente.",
-        "Hay <strong>dos afirmaciones distintas</strong> en circulación al mismo tiempo.",
-        "El anuncio procede de un empleado de una empresa de IA, lo que hace aún más importante la revisión externa.",
-        "Muchas \"pruebas\" de la hipótesis de Riemann han resultado erróneas a lo largo de los años."
+        "Nadie independiente ha verificado todavía la demostración.",
+        "Hay dos afirmaciones distintas compitiendo a la vez.",
+        "El anuncio viene de alguien que trabaja en la propia empresa de la IA, así que la revisión externa es clave.",
+        "A lo largo de la historia ha habido muchísimas \"pruebas\" de este problema que al final tenían fallos."
       ]
     },
     {
-      "p": "Seguiremos la historia y actualizaremos en cuanto haya una verificación independiente."
+      "p": "Si se confirma, sería la primera vez que una IA ayuda a resolver uno de los grandes misterios de las matemáticas. Si no, será otra prueba fallida más en una lista muy larga. En cuanto haya veredicto, te lo contamos."
     }
   ],
   "fuentes": [

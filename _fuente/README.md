@@ -28,7 +28,10 @@ Todo lo que está en `_fuente/` es el código fuente; GitHub Pages no lo publica
 ```
 
 ## Reglas editoriales
-- 450–700 palabras, castellano de España, tono claro y divulgativo.
+- 450–700 palabras, castellano de España.
+- TONO: cercano e informal, como si se lo contaras a un amigo. Tutear al lector ("si estás jugando...", "te lo explicamos"), frases cortas, algo de humor ligero, titulares con gancho pero sin engañar (nada de clickbait falso).
+- ENFOQUE: escribir para quien le interesa el tema, no para inversores. Videojuegos → para jugadores (qué tiene el juego, qué se puede hacer, qué gusta y qué no, curiosidades); las cifras de ventas o económicas solo como dato de color al final. Ciencia y tecnología → explicar sin tecnicismos qué es, por qué mola o importa y qué cambia para la gente normal.
+- Se puede cerrar con una pregunta al lector.
 - Todo dato debe salir de las fuentes enlazadas; distinguir dato oficial de estimación o rumor.
 - Redactar con palabras propias: nada de copiar frases de los medios (como mucho una cita breve, entre comillas y atribuida).
 - Mínimo 3 fuentes por noticia, preferiblemente fuentes originales.
