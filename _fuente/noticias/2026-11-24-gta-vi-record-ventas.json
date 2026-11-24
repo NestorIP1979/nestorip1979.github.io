@@ -77,10 +77,11 @@
     }
   ],
   "imagen": {
-    "archivo": "Playstation_5_DualSense_controller_in_Midnight_Black,_2026-02-07_(front).jpg",
-    "alt": "Mando DualSense negro de PlayStation 5",
-    "autor": "Chris Woodrich",
-    "licencia": "CC BY-SA 4.0",
-    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    "url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Lucia_Rooftop_With_Logos_landscape.04l3xybfa4~6m.jpg",
+    "fuente_url": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
+    "alt": "Arte oficial de Grand Theft Auto VI con el logotipo del juego y sus protagonistas, Jason y Lucía",
+    "autor": "Rockstar Games",
+    "licencia": "material oficial de prensa",
+    "licencia_url": "https://www.rockstargames.com/VI/media/artwork-wallpapers"
   }
 }

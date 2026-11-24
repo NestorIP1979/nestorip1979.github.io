@@ -51,3 +51,5 @@ nav a:hover{color:var(--acc)}
 .cover.photo img{position:absolute;inset:0}
 .cover.photo.logo{background:#f0eee6}
 .cover.photo.logo img{object-fit:contain;padding:12% 18%}
+.cover.photo.roto{background:linear-gradient(135deg,var(--c1),var(--c2))}
+.cover.photo.roto img,.cover.photo.roto figcaption{display:none}

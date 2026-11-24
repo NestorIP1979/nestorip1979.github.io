@@ -33,7 +33,10 @@ Todo lo que está en `_fuente/` es el código fuente; GitHub Pages no lo publica
 - Redactar con palabras propias: nada de copiar frases de los medios (como mucho una cita breve, entre comillas y atribuida).
 - Mínimo 3 fuentes por noticia, preferiblemente fuentes originales.
 - No repetir un tema ya publicado salvo que haya una novedad importante (entonces, artículo de actualización).
-- Imagen: una foto o ilustración REAL relacionada con la noticia, solo de Wikimedia Commons con licencia libre (CC0, dominio público, CC BY o CC BY-SA). Añadir en el JSON `"imagen": {"archivo": "Nombre_exacto_en_Commons.jpg", "alt": "descripción", "autor": "...", "licencia": "CC BY-SA 4.0", "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0/"}` tras comprobar autor y licencia en la página del archivo. Nunca fotos de medios, notas de prensa ni capturas oficiales, ni fotos de personas reales identificables: mejor el producto, el lugar, el objeto o un diagrama. Si la imagen tiene ejes o márgenes blancos, se puede recortar con "escala" (p. ej. 1.6) y "posicion" (p. ej. "50% 50%") dentro de "imagen". Si no hay imagen adecuada, omitir "imagen" (sale el degradado con emoji).
+- Imagen: debe identificar la noticia a primera vista (el logo de la empresa o del producto, la portada o arte oficial del juego, el producto...). Orden de preferencia:
+  1. Logo o imagen reconocible con licencia libre en Wikimedia Commons (CC0, dominio público, CC BY, CC BY-SA). Campo: `"imagen": {"archivo": "Nombre_exacto.svg", "alt": "...", "autor": "...", "licencia": "...", "licencia_url": "..."}`. Para logos añadir `"ajuste": "logo"` (fondo claro, sin recortar).
+  2. Si no hay ninguna libre reconocible: imagen OFICIAL de prensa de la propia empresa (su sala de prensa, media kit o web oficial de medios), nunca de otros medios ni de redes. Campo: `"imagen": {"url": "URL directa de la imagen", "fuente_url": "página oficial de prensa", "alt": "...", "autor": "Empresa", "licencia": "material oficial de prensa", "licencia_url": "página oficial de prensa"}`.
+  - Nunca fotos de personas reales identificables. Si la imagen no carga, la web muestra el degradado de la categoría.
 
 ## AdSense
 Cuando Google apruebe la web, rellenar en `config.json` `adsense_client` (ca-pub-…) y los `adsense_slot_*`, y volver a generar: se añaden el script, los bloques de anuncio y `ads.txt`.
