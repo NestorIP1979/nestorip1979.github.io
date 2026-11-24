@@ -49,3 +49,5 @@ nav a:hover{color:var(--acc)}
 .cover.photo{overflow:hidden;aspect-ratio:16/9}
 .post .cover.photo{aspect-ratio:21/9}
 .cover.photo img{position:absolute;inset:0}
+.cover.photo.logo{background:#f0eee6}
+.cover.photo.logo img{object-fit:contain;padding:12% 18%}

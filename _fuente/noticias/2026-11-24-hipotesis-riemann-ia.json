@@ -82,12 +82,11 @@
     }
   ],
   "imagen": {
-    "archivo": "Riemann-Zeta-Func.png",
-    "alt": "Representación en colores de la función zeta de Riemann en el plano complejo",
-    "autor": "Empetrisor",
-    "licencia": "CC BY-SA 4.0",
-    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "escala": 1.8,
-    "posicion": "45% 50%"
+    "archivo": "Anthropic_logo.svg",
+    "alt": "Logotipo de Anthropic",
+    "autor": "Anthropic",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+    "ajuste": "logo"
   }
 }

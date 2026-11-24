@@ -75,9 +75,11 @@ def portada(n, grande=False):
     if img:
         cls = "cover photo big" if grande else "cover photo"
         pagina_archivo = "https://commons.wikimedia.org/wiki/File:" + img["archivo"].replace(" ", "_")
-        credito = (f'Foto: <a href="{e(pagina_archivo)}" rel="nofollow noopener" target="_blank">{e(img["autor"])}</a>, '
+        credito = (f'Imagen: <a href="{e(pagina_archivo)}" rel="nofollow noopener" target="_blank">{e(img["autor"])}</a>, '
                    f'<a href="{e(img["licencia_url"])}" rel="nofollow noopener" target="_blank">{e(img["licencia"])}</a>')
         estilo = ""
+        if img.get("ajuste") == "logo":
+            cls += " logo"
         if img.get("escala") or img.get("posicion"):
             estilo = (f' style="transform:scale({float(img.get("escala", 1))});'
                       f'transform-origin:{e(img.get("posicion", "50% 50%"))}"')
