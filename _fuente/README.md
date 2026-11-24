@@ -40,7 +40,9 @@ Todo lo que está en `_fuente/` es el código fuente; GitHub Pages no lo publica
 - Imagen: debe identificar la noticia a primera vista (el logo de la empresa o del producto, la portada o arte oficial del juego, el producto...). Orden de preferencia:
   1. Logo o imagen reconocible con licencia libre en Wikimedia Commons (CC0, dominio público, CC BY, CC BY-SA). Campo: `"imagen": {"archivo": "Nombre_exacto.svg", "alt": "...", "autor": "...", "licencia": "...", "licencia_url": "..."}`. Para logos añadir `"ajuste": "logo"` (fondo claro, sin recortar).
   2. Si no hay ninguna libre reconocible: imagen OFICIAL de prensa de la propia empresa (su sala de prensa, media kit o web oficial de medios), nunca de otros medios ni de redes. Campo: `"imagen": {"url": "URL directa de la imagen", "fuente_url": "página oficial de prensa", "alt": "...", "autor": "Empresa", "licencia": "material oficial de prensa", "licencia_url": "página oficial de prensa"}`.
-  - Nunca fotos de personas reales identificables. Si la imagen no carga, la web muestra el degradado de la categoría.
+  3. Si ninguna de las anteriores encaja con el tema exacto, usa la imagen oficial o el logo libre del protagonista principal de la noticia (el juego más nombrado, la empresa, el producto, la plataforma). Por ejemplo, una noticia de premios donde arrasa un juego → arte oficial de ese juego.
+  - LA IMAGEN ES OBLIGATORIA: nunca se publica una noticia sin imagen. El degradado con emoji solo existe como reserva técnica por si una imagen deja de cargar.
+  - Nunca fotos de personas reales identificables.
 
 ## AdSense
 Cuando Google apruebe la web, rellenar en `config.json` `adsense_client` (ca-pub-…) y los `adsense_slot_*`, y volver a generar: se añaden el script, los bloques de anuncio y `ads.txt`.

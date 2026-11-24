@@ -105,5 +105,13 @@
       "nombre": "Shacknews – The Game Awards 2026 en Roblox y Disney+",
       "url": "https://shacknews.com/article/151353/the-game-awards-2026-roblox-disney-plus"
     }
-  ]
+  ],
+  "imagen": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Lucia_Lock_And_Load_With_Logos_landscape.13z.1pzvhq5dn.jpg",
+    "fuente_url": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
+    "alt": "Arte oficial de Grand Theft Auto VI con el logotipo del juego y sus protagonistas, Jason y Lucía",
+    "autor": "Rockstar Games",
+    "licencia": "material oficial de prensa",
+    "licencia_url": "https://www.rockstargames.com/VI/media/artwork-wallpapers"
+  }
 }
