@@ -16,6 +16,7 @@ Todo lo que está en `_fuente/` es el código fuente; GitHub Pages no lo publica
   "slug": "titulo-en-minusculas-con-guiones",
   "titulo": "Titular claro, sin clickbait",
   "fecha": "AAAA-MM-DD",
+  "hora": "HH:MM (hora de publicación, Europe/Madrid; ordena la portada cuando hay varias noticias el mismo día)",
   "categoria": "Videojuegos | Tecnología | Ciencia | Inteligencia artificial | Internet | Espacio",
   "resumen": "Una o dos frases (se usa como entradilla y meta description).",
   "cuerpo": [

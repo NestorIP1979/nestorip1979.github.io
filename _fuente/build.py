@@ -52,7 +52,7 @@ def cargar_noticias():
         n["url"] = f"/noticias/{n['slug']}.html"
         n["cat_slug"] = slugify(n["categoria"])
         out.append(n)
-    out.sort(key=lambda n: (n["fecha"], n["slug"]), reverse=True)
+    out.sort(key=lambda n: (n["fecha"], n.get("hora", "00:00"), n["slug"]), reverse=True)
     return out
 
 
