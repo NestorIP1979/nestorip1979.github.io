@@ -121,7 +121,7 @@ def pagina(titulo, contenido, descripcion=None, canonical="/", extra_head=""):
 <meta name="twitter:card" content="summary">
 <link rel="alternate" type="application/rss+xml" title="{e(CFG['nombre'])}" href="/feed.xml">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
-<link rel="stylesheet" href="/estilos.css">
+<link rel="stylesheet" href="/estilos.css?v={CSS_VER}">
 {analytics}
 {adsense}
 {extra_head}
@@ -183,6 +183,8 @@ def escribir(ruta, texto):
     p.write_text(texto, encoding="utf-8")
 
 
+import hashlib
+CSS_VER = hashlib.md5((SRC / "estilos.css").read_bytes()).hexdigest()[:8]
 NOTICIAS = cargar_noticias()
 CATEGORIAS_USADAS = sorted({n["categoria"] for n in NOTICIAS})
 for c in CATEGORIAS_USADAS:
