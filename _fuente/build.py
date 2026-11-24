@@ -204,7 +204,7 @@ def build():
     # portada
     ultimas, resto = NOTICIAS[:2], NOTICIAS[2:]
     portada_html = f"""<section class="hero">
-  <h1>Lo más viral de la semana</h1>
+  <h1>Lo más viral de hoy</h1>
   <p class="lead">{e(CFG['descripcion'])}</p>
 </section>
 <section class="destacadas">
