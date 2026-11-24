@@ -6,7 +6,7 @@
 # (index.html, noticias/, categoria/, páginas legales, sitemap.xml, feed.xml, robots.txt, ads.txt).
 # Uso: python3 _fuente/build.py
 
-import json, html, re, shutil, unicodedata
+import json, html, re, shutil, unicodedata, hashlib
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -86,13 +86,9 @@ def portada(n, grande=False):
         credito = f'Imagen: <a href="{e(pagina_origen)}" rel="nofollow noopener" target="_blank">{e(img["autor"])}</a>'
         if img.get("licencia"):
             credito += f', <a href="{e(img.get("licencia_url", pagina_origen))}" rel="nofollow noopener" target="_blank">{e(img["licencia"])}</a>'
-        estilo = ""
-        if img.get("escala") or img.get("posicion"):
-            estilo = (f' style="transform:scale({float(img.get("escala", 1))});'
-                      f'transform-origin:{e(img.get("posicion", "50% 50%"))}"')
         return (f'<figure class="{cls}" style="--c1:{c1};--c2:{c2}"><img src="{e(src)}" '
                 f'alt="{e(img["alt"])}" loading="lazy" decoding="async" referrerpolicy="no-referrer" '
-                f'onerror="this.parentNode.classList.add(\'roto\')"{estilo}>'
+                f'onerror="this.parentNode.classList.add(\'roto\')">'
                 f'<figcaption>{credito}</figcaption></figure>')
     emoji, c1, c2 = CAT_ESTILO.get(n["categoria"], DEFECTO)
     cls = "cover big" if grande else "cover"
@@ -117,7 +113,7 @@ def pagina(titulo, contenido, descripcion=None, canonical="/", extra_head=""):
     if CFG.get("google_site_verification"):
         analytics += f'<meta name="google-site-verification" content="{e(CFG["google_site_verification"])}">'
     full_title = titulo if titulo == CFG["nombre"] else f"{titulo} | {CFG['nombre']}"
-    cats = sorted({c for c in CAT_ESTILO} & set(CATEGORIAS_USADAS)) or []
+    cats = CATEGORIAS_USADAS
     nav = "".join(f'<a href="/categoria/{slugify(c)}.html">{e(c)}</a>' for c in cats)
     return f"""<!DOCTYPE html>
 <html lang="{CFG['idioma']}">
@@ -197,7 +193,6 @@ def escribir(ruta, texto):
     p.write_text(texto, encoding="utf-8")
 
 
-import hashlib
 CSS_VER = hashlib.md5((SRC / "estilos.css").read_bytes()).hexdigest()[:8]
 NOTICIAS = cargar_noticias()
 CATEGORIAS_USADAS = sorted({n["categoria"] for n in NOTICIAS})
