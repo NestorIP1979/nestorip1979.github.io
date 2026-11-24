@@ -78,6 +78,16 @@ def pagina(titulo, contenido, descripcion=None, canonical="/", extra_head=""):
     if CFG.get("adsense_client"):
         adsense = (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='
                    f'{e(CFG["adsense_client"])}" crossorigin="anonymous"></script>')
+    analytics = ""
+    if CFG.get("ga4_id"):
+        gid = e(CFG["ga4_id"])
+        analytics = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={gid}"></script>'
+                     '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
+                     "gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',"
+                     "analytics_storage:'denied',wait_for_update:500});"
+                     f"gtag('js',new Date());gtag('config','{gid}');</script>")
+    if CFG.get("google_site_verification"):
+        analytics += f'<meta name="google-site-verification" content="{e(CFG["google_site_verification"])}">'
     full_title = titulo if titulo == CFG["nombre"] else f"{titulo} | {CFG['nombre']}"
     cats = sorted({c for c in CAT_ESTILO} & set(CATEGORIAS_USADAS)) or []
     nav = "".join(f'<a href="/categoria/{slugify(c)}.html">{e(c)}</a>' for c in cats)
@@ -98,6 +108,7 @@ def pagina(titulo, contenido, descripcion=None, canonical="/", extra_head=""):
 <link rel="alternate" type="application/rss+xml" title="{e(CFG['nombre'])}" href="/feed.xml">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
 <link rel="stylesheet" href="/estilos.css">
+{analytics}
 {adsense}
 {extra_head}
 </head>
