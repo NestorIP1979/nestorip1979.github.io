@@ -1,0 +1,100 @@
+{
+  "slug": "gta-vi-pc-leonida-retirado",
+  "titulo": "Adiós a Leonida: Take-Two tumba el GTA VI «para PC» de los fans y más de 3.000 repositorios en GitHub",
+  "fecha": "2026-11-25",
+  "hora": "07:15",
+  "categoria": "Videojuegos",
+  "resumen": "Un proyecto no oficial que prometía llevar GTA VI al PC ha durado apenas tres días. Take-Two ha pedido su retirada y GitHub ha desactivado el original y sus 3.006 copias. Te contamos qué era, por qué ha caído y qué se sabe de la versión oficial para PC.",
+  "cuerpo": [
+    {
+      "p": "Si juegas en PC y llevas desde el 19 de noviembre mirando con envidia cómo tus colegas se pasean por Leonida en PS5 o Xbox Series, esta semana has vivido una montaña rusa. Un proyecto de fans llamado <strong>Leonida</strong> prometía meter GTA VI en el ordenador… y ha durado lo que dura un coche aparcado en doble fila en GTA."
+    },
+    {
+      "h2": "¿Qué era Leonida?"
+    },
+    {
+      "p": "Era un proyecto de código abierto alojado en GitHub que se presentaba como una «recompilación» nativa para PC de la versión de Xbox de GTA VI. Dicho en cristiano: intentaba traducir el programa del juego para que funcionara de forma nativa en PC. El proyecto no incluía el juego en sí: cada usuario tenía que poner sus propios archivos de la versión de Xbox Series."
+    },
+    {
+      "p": "El repositorio se abrió el 21 de noviembre, solo dos días después del lanzamiento del juego, y pegó un pelotazo: superó las 32.000 estrellas en GitHub y su servidor de Discord rondaba los 179.000 miembros."
+    },
+    {
+      "h2": "Por qué ha caído"
+    },
+    {
+      "p": "El equipo de protección de propiedad intelectual de Take-Two, la empresa dueña de Rockstar, envió un aviso por derechos de autor (lo que se conoce como DMCA) y GitHub lo publicó el 24 de noviembre. Resultado: se desactivó el repositorio original y sus <strong>3.006 copias (forks)</strong>: 3.007 repositorios en total. Take-Two hablaba en su aviso de más de 2.900 copias, pero GitHub tumbó la red entera."
+    },
+    {
+      "p": "Los argumentos de Take-Two, según recogen Make Tech Easier, Output Lag e Infobae, son tres:"
+    },
+    {
+      "ul": [
+        "Que el proyecto es una obra derivada del juego.",
+        "Que incumple las condiciones de uso de Rockstar, que prohíben descompilar el juego, hacerle ingeniería inversa o crear obras derivadas.",
+        "Que lo de «trae tus propios archivos» es «intencionalmente engañoso» porque, por las fechas, los archivos que se usaban serían los de la versión de Xbox robados y difundidos el 20 de noviembre."
+      ]
+    },
+    {
+      "p": "Ojo, que estas son las acusaciones de Take-Two: ningún juez se ha pronunciado. Además, la empresa no ha hecho declaraciones públicas más allá del propio aviso."
+    },
+    {
+      "p": "El Discord del proyecto también cayó en la noche del 23 al 24 de noviembre. Su creador, conocido como NotRexed, asegura, sin que la empresa lo haya confirmado, que lo cerraron a petición de Rockstar y Take-Two y ha anunciado que deja el proyecto."
+    },
+    {
+      "h2": "¿Se podía jugar de verdad?"
+    },
+    {
+      "p": "Spoiler: no. Según el seguimiento comunitario que cita PC Games Hardware, Leonida estaba al 25 % y su ejecutable aguantaba como mucho tres minutos abierto, y mostrando una ventana vacía. Según esa misma fuente, ningún port no oficial permite hoy jugar a GTA VI en PC: todos dependen de la versión filtrada. El más avanzado, <strong>VIctory</strong>, llega a cargar el mundo del juego, pero tarda entre medio segundo y casi dos segundos en dibujar <em>cada fotograma</em> (y solo se ha probado en un equipo). Vamos, que más que jugar, contemplas una presentación de diapositivas de GTA VI."
+    },
+    {
+      "p": "Y no es un caso aislado: el 18 de noviembre, Take-Two ya había enviado cuatro avisos contra ports no oficiales de GTA V en GitHub. Está claro que Take-Two defiende a su gallina de los huevos de oro con uñas y dientes."
+    },
+    {
+      "h2": "¿Y el GTA VI oficial para PC?"
+    },
+    {
+      "p": "Ni está anunciado ni tiene fecha. En mayo, el jefe de Take-Two, Strauss Zelnick, explicó a Bloomberg que Rockstar «siempre empieza en consola», aunque reconoció que el PC puede suponer cerca de la mitad de las ventas de un gran lanzamiento. Según informes que recoge GameRiv, podría llegar antes de marzo de 2027, pero es un rumor que nadie ha confirmado. Así que, de momento, toca paciencia… o pedirle la consola prestada a alguien."
+    },
+    {
+      "p": "¿Tú esperarás a la versión oficial de PC o ya te has rendido y estás jugando en consola?"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Make Tech Easier – Take-Two's DMCA notice took down 3,007 GitHub repos and ended Leonida",
+      "url": "https://maketecheasier.com/take-two-dmca-github-leonida-takedown/"
+    },
+    {
+      "nombre": "Output Lag – GTA 6's unofficial PC port lasted three days before Take-Two wiped 3,007 GitHub repos",
+      "url": "https://outputlag.com/news/gta-6s-unofficial-pc-port-lasted-three-days-before-take-two-wiped-3007-github-repos/"
+    },
+    {
+      "nombre": "Infobae – Golpe contra GTA 6 para PC: borran el port ‘Leonida’ y sus más de 3.000 copias en GitHub",
+      "url": "https://www.infobae.com/tecno/2026/11/25/golpe-contra-gta-6-para-pc-borran-el-port-leonida-y-sus-mas-de-3000-copias-en-github/"
+    },
+    {
+      "nombre": "PC Games Hardware – GTA 6 PC ports: Leonida offline, VIctory leads, XCL",
+      "url": "https://www.pcgameshardware.de/GTA-6-Spiel-55239/News/GTA-6-PC-ports-Leonida-offline-VIctory-leads-XCL-1560947/"
+    },
+    {
+      "nombre": "VGC – Unofficial GTA 6 PC ports are already getting shut down",
+      "url": "https://www.videogameschronicle.com/news/unofficial-gta-6-pc-ports-are-already-getting-shut-down/"
+    },
+    {
+      "nombre": "GameRiv – Take-Two takes down unofficial GTA 6 PC port Leonida and its 3,006 GitHub forks",
+      "url": "https://gameriv.com/take-two-takes-down-unofficial-gta-6-pc-port-leonida-and-its-3006-github-forks/"
+    },
+    {
+      "nombre": "PC Gamer – PC players aren't Grand Theft Auto 6's 'core' audience, Take-Two CEO says",
+      "url": "https://pcgamer.com/gaming-industry/pc-players-arent-grand-theft-auto-6s-core-audience-take-two-ceo-says-and-thats-why-we-have-to-wait-for-it"
+    }
+  ],
+  "imagen": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Lucia_Rooftop_With_Logos_landscape.04l3xybfa4~6m.jpg",
+    "fuente_url": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
+    "alt": "Arte oficial de Grand Theft Auto VI con el logotipo del juego y sus protagonistas, Jason y Lucía",
+    "autor": "Rockstar Games",
+    "licencia": "material oficial de prensa",
+    "licencia_url": "https://www.rockstargames.com/VI/media/artwork-wallpapers"
+  }
+}
