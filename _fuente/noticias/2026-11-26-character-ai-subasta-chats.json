@@ -1,0 +1,81 @@
+{
+  "slug": "character-ai-subasta-chats",
+  "titulo": "Character.AI, en quiebra, subasta los chats de 21 millones de cuentas y 42 fiscales de EE. UU. intentan frenarlo",
+  "fecha": "2026-11-26",
+  "hora": "20:41",
+  "categoria": "Inteligencia artificial",
+  "resumen": "La empresa de chatbots, en bancarrota, saldrá a subasta el 1 de diciembre, y en el lote van las conversaciones de más de 21 millones de cuentas estadounidenses. Un grupo de 42 fiscales generales ha pedido al juez que la pare. Te explicamos qué pasa y qué puedes hacer si usas la app.",
+  "cuerpo": [
+    {
+      "p": "Imagina que le has contado tus penas a un chatbot durante meses y un día descubres que esas charlas pueden acabar en manos de un comprador desconocido. Pues eso es, más o menos, lo que puede pasarles a los usuarios de <strong>Character.AI</strong>, la popular app para hablar con personajes creados con inteligencia artificial."
+    },
+    {
+      "h2": "Qué está pasando"
+    },
+    {
+      "p": "Character.AI se acogió en octubre al <strong>capítulo 11 de la ley de quiebras de Estados Unidos</strong>, un proceso de quiebra voluntario que se tramita bajo la supervisión de un juez. En su blog, la compañía habló de importantes problemas legales, regulatorios y operativos. El caso está en un tribunal de quiebras de Delaware."
+    },
+    {
+      "p": "La venta incluye prácticamente todo: la web, las apps, los modelos de IA, las cuentas y, aquí viene lo gordo, <strong>el historial de chats de más de 21 millones de cuentas de EE. UU.</strong>, de las que más de 2,1 millones están registradas a nombre de menores. Según Notebookcheck y The Boston Report, también entrarían datos como las direcciones IP y, posiblemente, otros datos de ubicación. La subasta está fijada para el <strong>1 de diciembre</strong>."
+    },
+    {
+      "h2": "¿Quién quiere comprar?"
+    },
+    {
+      "p": "La oferta de partida es de Smirks & Pangs Acquisition LLC, una sociedad creada en Delaware el 13 de noviembre, apenas un día antes de que Character.AI la eligiera. ¿Quién hay detrás? Pues no está nada claro: Gizmodo, citando al Wall Street Journal, apunta a la firma neoyorquina Octave Advisors, mientras que Notebookcheck habla de un fondo llamado Octave Fund I. Según Notebookcheck, la oferta es de 10 millones de dólares."
+    },
+    {
+      "h2": "Por qué protestan los fiscales"
+    },
+    {
+      "p": "Un grupo de <strong>42 fiscales generales</strong> de EE. UU., de ambos partidos, ha pedido al juez que rechace la operación. Su argumento principal es que el comprador no tendría por qué respetar la política de privacidad actual ni las peticiones de borrado de datos, y que incluso podría pasar los datos a otra empresa sin avisar ni a los usuarios, ni a los estados, ni al tribunal."
+    },
+    {
+      "p": "Y no hablamos de charlas sobre el tiempo. Según el escrito que recoge Gizmodo, hay usuarios que han contado a los personajes cosas sobre su salud mental y médica, a veces en conversaciones casi de terapia. Por eso los fiscales piden, como mínimo, que la venta deje fuera los chats de menores y los datos más sensibles."
+    },
+    {
+      "p": "El fiscal general de California, Rob Bonta, calificó la venta de «appalling» (espantosa, vaya) y avisó de que la bancarrota no debería servir para saltarse la ley. A día de hoy, el juez todavía no se ha pronunciado."
+    },
+    {
+      "h2": "¿Y qué dice Character.AI?"
+    },
+    {
+      "p": "Poca cosa. La empresa asegura en su web que no vende información personal a cambio de dinero y que no se dedica a comerciar con datos. Desde que empezó la quiebra, según Notebookcheck, solo ha repetido que los datos de los usuarios siguen protegidos por su política de privacidad. Según The Boston Report, también ha dicho al tribunal que la empresa que ha hecho la oferta inicial no tiene vínculos con ella."
+    },
+    {
+      "h2": "Si usas Character.AI, esto te interesa"
+    },
+    {
+      "ul": [
+        "Según Notebookcheck, puedes <strong>borrar tu cuenta</strong> desde la web (ajustes del perfil, apartado de cuenta) o desde la app, y el borrado es inmediato. Eso sí, nadie garantiza que hacerlo ahora saque tus chats de la venta.",
+        "Exportar tus conversaciones tarda de tres a cuatro semanas, según el mismo medio, así que llegaría después de la subasta.",
+        "Según Notebookcheck, las cifras de la venta hablan solo de cuentas de EE. UU., y no está claro qué pasa con las del resto del mundo. Ese medio recuerda que en la UE puedes acogerte al derecho de supresión que te da el reglamento europeo de protección de datos (RGPD), es decir, pedir que borren tus datos."
+      ]
+    },
+    {
+      "p": "La historia deja una lección que sirve para cualquier app: lo que le cuentas a un chatbot no desaparece al cerrar la ventana. ¿Tú le has confiado algo a una IA que no te haría gracia ver en otras manos?"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Gizmodo – Character.ai wants to sell millions of user chats to the highest bidder",
+      "url": "https://gizmodo.com/character-ai-wants-to-sell-millions-of-user-chats-to-the-highest-bidder-2000845664"
+    },
+    {
+      "nombre": "Notebookcheck – Character.ai plans to auction chats from 21 million US accounts",
+      "url": "https://www.notebookcheck.net/Character-ai-plans-to-auction-chats-from-21-million-US-accounts.1460646.0.html"
+    },
+    {
+      "nombre": "The Boston Report – States fight Character.AI chat auction",
+      "url": "https://thebostonreport.com/2026/11/26/attorneys-general-character-ai-auction-private-chats-bankruptcy"
+    }
+  ],
+  "imagen": {
+    "archivo": "Character.ai_2025_vector_logo.svg",
+    "alt": "Logotipo de Character.AI",
+    "autor": "Character Technologies",
+    "licencia": "Logotipo libre en Wikimedia Commons",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Character.ai_2025_vector_logo.svg",
+    "ajuste": "logo"
+  }
+}

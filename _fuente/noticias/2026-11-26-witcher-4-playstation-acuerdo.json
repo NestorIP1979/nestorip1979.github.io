@@ -1,0 +1,43 @@
+{
+  "slug": "witcher-4-playstation-acuerdo",
+  "titulo": "The Witcher 4 se va de marketing con PlayStation, pero tranquilo: no será exclusivo",
+  "fecha": "2026-11-26",
+  "hora": "20:40",
+  "categoria": "Videojuegos",
+  "resumen": "CD Projekt ha firmado con Sony acuerdos que incluyen la campaña de promoción de The Witcher 4 y la presencia de sus juegos en PlayStation Plus. El estudio insiste en que el juego saldrá a la vez en PS5, Xbox Series X|S y PC. Te contamos qué cambia (y qué no) para ti.",
+  "cuerpo": [
+    {"p": "Si llevas tiempo contando los días para volver al Continente, esto te interesa: <strong>CD Projekt RED ha firmado nuevos acuerdos con Sony</strong>, y uno de ellos tiene que ver directamente con <strong>The Witcher 4</strong>. Antes de que cunda el pánico en el bando verde: no, no es una exclusiva. Vamos por partes."},
+    {"h2": "Qué se ha firmado exactamente"},
+    {"p": "Lo anunció Piotr Nielubowicz, director financiero del estudio, al presentar los resultados del tercer trimestre el lunes 24 de noviembre. Según recogen varios medios, los acuerdos con Sony Interactive Entertainment cubren tres cosas: la presencia de los juegos de CD Projekt en PlayStation, su inclusión en las suscripciones de <strong>PlayStation Plus</strong> y la colaboración en la <strong>campaña de marketing de The Witcher 4</strong>."},
+    {"p": "Lo que no se sabe es casi tan interesante como lo que sí. No hay cifras del acuerdo, no se ha dicho cuándo empieza la campaña y tampoco qué juegos llegarán a PS Plus ni en qué fecha. Así que, de momento, no des por hecho que podrás jugar a The Witcher 4 de salida con tu suscripción: nadie lo ha confirmado."},
+    {"h2": "¿Y si juego en Xbox o PC?"},
+    {"p": "Pues puedes respirar. Al día siguiente, el codirector ejecutivo Michał Nowakowski lo dejó claro en X: The Witcher 4 y los próximos juegos del estudio <strong>seguirán siendo multiplataforma</strong>. Según Kotaku y Instant Gaming, añadió que las versiones de PS5, Xbox Series X|S y PC saldrán a la vez. Vamos, que el acuerdo va de anuncios y de catálogo, no de quitarle el juego a nadie."},
+    {"p": "Lo curioso es el cambio de pareja de baile. Hasta ahora, CD Projekt solía promocionar sus juegos de la mano de Xbox (con The Witcher 3 y Cyberpunk 2077, según AllKeyShop). Esta vez se cambian al lado azul, como ya hizo Rockstar con la campaña de GTA VI, según recuerda Kotaku."},
+    {"h2": "Cómo va The Witcher 4"},
+    {"p": "Si buscabas fecha, siento decepcionarte: el estudio sigue apuntando a <strong>2028</strong>, sin día concreto. Lo que sí sabemos es que el proyecto va en serio: a 31 de octubre tenía a <strong>513 desarrolladores</strong> trabajando en él, casi la mitad de los 1.051 que tiene CD Projekt RED. Según Instant Gaming, todavía no se ha enseñado gameplay."},
+    {"p": "Según Kotaku, la protagonista será <strong>Ciri</strong>, el juego se está haciendo con Unreal Engine 5 y las versiones de cada plataforma se desarrollan a la vez para no repetir los problemas del lanzamiento de Cyberpunk 2077. Además, según Inven Global, está nominado como juego más esperado en The Game Awards, que se celebran el 10 de diciembre."},
+    {"h2": "Más cosas que soltó CD Projekt"},
+    {"p": "La presentación de resultados dejó otras migas de pan para los fans:"},
+    {"ul": [
+      "The Witcher 3 tendrá una nueva expansión, <em>Songs of the Past</em>, prevista para 2027.",
+      "Según Inven Global, la edición remasterizada de The Witcher 3 llegó a un pico de 138.000 jugadores a la vez en Steam.",
+      "Cyberpunk 2 tiene ya 199 desarrolladores en el equipo, aunque sigue sin fecha."
+    ]},
+    {"p": "Y como dato de color para los que miran las cuentas: según Inven Global, el estudio ingresó 208 millones de zlotys en el trimestre, un 31 % menos que hace un año. La caída se explica porque en ese mismo trimestre de 2025 entró el dinero de meter Cyberpunk 2077 en PS Plus Extra y Premium. No es casualidad que quieran repetir: según Nielubowicz, el nuevo acuerdo apoyará sus cuentas este año y los siguientes."},
+    {"p": "¿Y tú qué opinas? ¿Te da igual quién haga los anuncios mientras el juego salga para todos, o ya estás soñando con ver a Ciri en tu catálogo de PS Plus?"}
+  ],
+  "fuentes": [
+    {"nombre": "Inven Global – CD Projekt Red signs Sony deal covering PlayStation Plus and The Witcher 4 marketing", "url": "https://www.invenglobal.com/articles/29129/cd-projekt-red-signs-sony-deal-covering-playstation-plus-and-the-witcher-4-marketing"},
+    {"nombre": "Kotaku en Español – PlayStation firma un importante acuerdo con otro de los videojuegos más esperados", "url": "https://es.kotaku.com/tras-el-fenomeno-de-gta-6-playstation-firma-un-importante-acuerdo-con-otro-de-los-videojuegos-mas-esperados-de-los-proximos-anos-2000058241"},
+    {"nombre": "Instant Gaming News – CD Projekt RED confirma que The Witcher 4 y sus próximos juegos seguirán siendo multiplataforma", "url": "https://news.instant-gaming.com/es/articulos/23216-cd-projekt-red-confirma-que-the-witcher-4-y-sus-proximos-juegos-seguiran-siendo-multiplataforma"},
+    {"nombre": "AllKeyShop – CD Projekt Red picks PlayStation for The Witcher 4 marketing and PS Plus catalog", "url": "https://www.allkeyshop.com/blog/cd-projekt-red-playstation-the-witcher-4-marketing-ps-plus-news-d/"}
+  ],
+  "imagen": {
+    "archivo": "Cdprojectred-logo.svg",
+    "alt": "Logotipo de CD Projekt RED",
+    "autor": "CD Projekt",
+    "licencia": "Logotipo libre en Wikimedia Commons",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Cdprojectred-logo.svg",
+    "ajuste": "logo"
+  }
+}
