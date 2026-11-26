@@ -1,0 +1,47 @@
+{
+  "slug": "tidal-borra-musica-ia",
+  "titulo": "Tidal se harta de la música hecha por IA: borrará unos 29 millones de canciones a partir del 9 de diciembre",
+  "fecha": "2026-11-26",
+  "hora": "07:10",
+  "categoria": "Internet",
+  "resumen": "La plataforma de streaming dejará de aceptar canciones creadas íntegramente con inteligencia artificial y eliminará las que ya tiene. Te contamos qué cambia, qué se salva y por qué ha tomado una decisión tan drástica.",
+  "cuerpo": [
+    {"p": "Si alguna vez te ha salido en una lista una canción rarísima, de un artista del que no hay ni una foto, y has pensado «esto lo ha hecho una máquina», en Tidal te dan la razón. La plataforma de música en streaming ha anunciado que <strong>dejará de aceptar canciones generadas por completo con inteligencia artificial</strong> y que va a borrar las que ya tiene en su catálogo."},
+    {"h2": "Qué ha anunciado Tidal"},
+    {"p": "Lo contó el martes 24 de noviembre Robert Andersen, responsable de música de Tidal, en un mensaje en X, y la cuenta oficial de la plataforma lo confirmó. A partir del <strong>9 de diciembre</strong>, Tidal empezará a eliminar las canciones hechas íntegramente por IA. En total, unos <strong>29 millones de temas</strong>, y la idea es terminar la limpieza hacia final de año o principios de 2027."},
+    {"p": "Además, las distribuidoras (las empresas que hacen de intermediarias entre los músicos y las plataformas) ya no podrán enviarle pistas creadas al cien por cien con IA. Es decir, el filtro se pone en la puerta y no solo dentro de la casa."},
+    {"h2": "Las cifras que explican el portazo"},
+    {"p": "Tidal ha dado varios datos que ayudan a entender por qué ha llegado a esto:"},
+    {"ul": [
+      "El <strong>43 %</strong> de las canciones que le llegaron en los últimos 90 días se detectaron como generadas por IA. Más de cuatro de cada diez.",
+      "Calcula que tendrá que rechazar entre <strong>80.000 y 85.000</strong> canciones de este tipo <strong>cada día</strong>.",
+      "Y la más demoledora: el <strong>96 %</strong> de las canciones generadas por IA que tiene no ha sonado ni una sola vez."
+    ]},
+    {"p": "O sea, montañas de canciones que no escucha nadie. Andersen lo resumió con una frase clara: «Something more drastic needs to be done» (hay que hacer algo más drástico). Desde la cuenta oficial de Tidal añadieron que, a esta escala, la música auténtica que buscan sus suscriptores acaba <strong>enterrada</strong> bajo todo ese relleno."},
+    {"h2": "¿Se prohíbe usar la IA para hacer música?"},
+    {"p": "No. Y esto es importante. Tidal seguirá aceptando canciones hechas <strong>con ayuda</strong> de la inteligencia artificial: lo que se veta son los temas generados del todo por una máquina. Si un músico usa la IA como una herramienta más dentro de su proceso creativo, su canción puede seguir en la plataforma."},
+    {"p": "En realidad, Tidal ya venía apretando las tuercas. Desde el verano marca con una etiqueta la música generada por IA y no paga derechos por ella. Según su página de ayuda, si eres usuario puedes desactivar en los ajustes las canciones etiquetadas como IA, y si eres artista y te han puesto la etiqueta por error, puedes reclamar. El paso de ahora es el siguiente nivel: directamente fuera."},
+    {"h2": "¿Y las demás plataformas?"},
+    {"p": "Tidal presume de ser el primer gran servicio de streaming en hacer algo así, y Andersen ha animado a la competencia a seguir el mismo camino. No es el primero en todo el sector: la tienda musical Bandcamp ya prohibió la música hecha por IA este mismo año. Pero, según TechCrunch, YouTube Music ha optado por etiquetar estas canciones en lugar de quitarlas, y Deezer ofrece herramientas para detectarlas."},
+    {"h2": "Qué cambia para ti"},
+    {"p": "Si usas Tidal, en teoría deberías toparte con menos relleno. Si usas otra plataforma, de momento nada, aunque la pregunta ya está sobre la mesa: ¿basta con poner una etiqueta o hay que sacar la escoba?"},
+    {"p": "Queda por ver si las demás se animan y si los sistemas de detección aciertan siempre, porque nadie quiere que una canción humana acabe en la papelera por error. Mientras tanto, ¿tú qué prefieres: una plataforma con filtro anti-IA o elegir tú mismo qué escuchar?"}
+  ],
+  "fuentes": [
+    {"nombre": "TechCrunch – Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming", "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"},
+    {"nombre": "The Next Web – TIDAL will delete 29 million AI-generated songs from its catalogue", "url": "https://thenextweb.com/news/tidal-delete-29-million-ai-generated-songs"},
+    {"nombre": "Infobae – Tidal eliminará cerca de 29 millones de canciones creadas íntegramente con IA a partir del 9 de diciembre", "url": "https://www.infobae.com/tecno/2026/11/25/tidal-eliminara-cerca-de-29-millones-de-canciones-creadas-con-ia/"},
+    {"nombre": "Notebookcheck – Tidal bans AI-generated music and removes 29 million songs", "url": "https://www.notebookcheck.net/Tidal-bans-AI-generated-music-and-removes-29-million-songs.1459690.0.html"},
+    {"nombre": "Ámbito – La plataforma de streaming Tidal prohíbe la música generada por IA", "url": "https://ambito.com/espectaculos/la-plataforma-streaming-tidal-prohibe-la-musica-generada-ia-n6349220"},
+    {"nombre": "Tidal – AI Policy (página oficial)", "url": "https://tidal.com/ai-policy"},
+    {"nombre": "Tidal – AI Policy (centro de ayuda)", "url": "https://support.tidal.com/hc/en-us/articles/48031883413521-AI-Policy"}
+  ],
+  "imagen": {
+    "url": "https://images.ctfassets.net/8779xn42o3b8/ekQ8j1yQ08Fd8PHIRiKde/61381a490d89a96197f225ffd9679e1b/tidal_logo_on_black.jpg",
+    "fuente_url": "https://tidal.com/ai-policy",
+    "alt": "Logotipo de Tidal en blanco sobre fondo negro",
+    "autor": "Tidal",
+    "licencia": "material oficial de prensa",
+    "licencia_url": "https://tidal.com/ai-policy"
+  }
+}
