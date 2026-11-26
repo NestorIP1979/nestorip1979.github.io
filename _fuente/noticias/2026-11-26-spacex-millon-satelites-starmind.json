@@ -6,44 +6,98 @@
   "categoria": "Espacio",
   "resumen": "El regulador de telecomunicaciones de Estados Unidos ha autorizado Starmind, la constelación con la que SpaceX quiere poner ordenadores para inteligencia artificial en órbita. Te contamos qué es, qué plazos tiene y por qué a los astrónomos no les hace ni pizca de gracia.",
   "cuerpo": [
-    {"p": "Si te parecía que había muchos satélites Starlink en el cielo, agárrate. La FCC, el organismo que regula las telecomunicaciones en Estados Unidos, aprobó el 25 de noviembre que SpaceX despliegue <strong>hasta un millón de satélites</strong>. Y no son para darte internet: son, literalmente, <strong>centros de datos para inteligencia artificial flotando en órbita</strong>."},
-    {"p": "El presidente de la FCC, Brendan Carr, lo anunció en X como «a historic first», un hito histórico. Según Via Satellite y SiliconANGLE, es la primera vez que el regulador autoriza una constelación de este tipo."},
-    {"h2": "¿Qué es eso de un centro de datos en el espacio?"},
-    {"p": "Un centro de datos es, básicamente, un edificio enorme lleno de ordenadores potentes. Son los que hacen funcionar los chatbots y demás inventos de IA, y en tierra consumen muchísima electricidad y mucha agua para no achicharrarse. La idea de SpaceX es llevarlos arriba: según la empresa, allí la energía solar sale más barata y se ahorra la energía y el agua que en tierra se gastan en refrigeración."},
-    {"p": "La constelación se llama <strong>Starmind</strong>. La FCC no habla de satélites a secas, sino de «módulos de computación orbital». Se comunicarán sobre todo con láser con otros satélites, incluidos los de Starlink, y llevarán una radio de reserva. Según Via Satellite, cada uno dedicaría de media unos 175 kilovatios (hasta 250) a computación y radiadores desplegables para soltar el calor."},
-    {"h2": "Los plazos: esto va para largo"},
-    {"p": "Nadie va a ver un millón de satélites el mes que viene. La FCC ha puesto un calendario por fases:"},
-    {"ul": [
-      "Al menos <strong>un satélite</strong> antes del 25 de noviembre de 2033.",
-      "El 10 % (<strong>100.000</strong>) antes del 25 de noviembre de 2035.",
-      "La mitad (<strong>500.000</strong>) antes del 25 de noviembre de 2038.",
-      "El <strong>millón completo</strong> antes del 25 de noviembre de 2040."
-    ]},
-    {"p": "Y ojo: según SiliconANGLE, si SpaceX incumple uno solo, pierde la licencia. Esos son los plazos máximos. SpaceX habla de lanzar antes, aunque sus propias fechas bailan: Elon Musk y Gwynne Shotwell han hablado de 2027, pero, según CBS, el folleto de su salida a bolsa dice «as early as 2028» (en 2028 como pronto). Para hacerte una idea de la escala, hoy hay en órbita algo más de 10.000 satélites Starlink."},
-    {"p": "Los satélites irán entre <strong>500 y unos 1.000 kilómetros</strong> de altura, repartidos en seis capas. En su solicitud original, SpaceX pedía llegar hasta 2.000 kilómetros; lo aprobado se queda en unos 1.000."},
-    {"h2": "Por qué no todo el mundo aplaude"},
-    {"p": "Amazon, la operadora de satélites Viasat y la Sociedad Astronómica Estadounidense (AAS) pidieron que se denegara el permiso. La FCC rechazó sus peticiones. La AAS se ha declarado «disheartened and dismayed» (desanimada y consternada), porque habrá satélites más grandes, más brillantes y muchísimos más que estropean las observaciones del cielo."},
-    {"p": "El astrofísico Adam Becker, en declaraciones a AP, fue directo: «It's not going to happen» (no va a pasar). Le preocupan las colisiones en cadena que podrían llenar la órbita de basura espacial, la contaminación del cielo nocturno y un problema físico de fondo: en el vacío no hay aire, así que <strong>quitarse el calor de encima es mucho más difícil</strong> de lo que parece."},
-    {"p": "Eso sí, la FCC no lo ha dejado todo atado. Según SiliconANGLE, el plan de SpaceX contra la basura espacial solo cumple las normas por debajo de 600 kilómetros (y cuatro de las seis capas están por encima), así que antes de subir más arriba tendrá que presentar un plan definitivo. En cambio, según Via Satellite, el regulador ha calificado de «especulativo» el temor al efecto en la atmósfera de tantos satélites ardiendo al reentrar, y, según AP, considera que los asuntos ambientales no son de su competencia."},
-    {"h2": "¿Y a ti en qué te afecta?"},
-    {"p": "De momento, en nada: no hay ni un solo satélite Starmind en órbita. Pero es una pista clara de hacia dónde va la carrera de la IA, que necesita cada vez más electricidad. SpaceX no está sola: según Via Satellite, la FCC tiene pendientes otros proyectos parecidos, como uno de Starcloud con 88.000 satélites y otro de Blue Origin con 51.600."},
-    {"p": "La gran pregunta es si el cielo nocturno aguantará tanto tráfico. ¿Tú qué opinas: genialidad o locura orbital?"}
+    {
+      "p": "Si te parecía que había muchos satélites Starlink en el cielo, agárrate. La FCC, el organismo que regula las telecomunicaciones en Estados Unidos, aprobó el 25 de noviembre que SpaceX despliegue <strong>hasta un millón de satélites</strong>. Y no son para darte internet: son, literalmente, <strong>centros de datos para inteligencia artificial flotando en órbita</strong>."
+    },
+    {
+      "p": "El presidente de la FCC, Brendan Carr, lo anunció en X como «a historic first», un hito histórico. Según Via Satellite y SiliconANGLE, es la primera vez que el regulador autoriza una constelación de este tipo."
+    },
+    {
+      "h2": "¿Qué es eso de un centro de datos en el espacio?"
+    },
+    {
+      "p": "Un centro de datos es, básicamente, un edificio enorme lleno de ordenadores potentes. Son los que hacen funcionar los chatbots y demás inventos de IA, y en tierra consumen muchísima electricidad y mucha agua para no achicharrarse. La idea de SpaceX es llevarlos arriba: según la empresa, allí la energía solar sale más barata y se ahorra la energía y el agua que en tierra se gastan en refrigeración."
+    },
+    {
+      "p": "La constelación se llama <strong>Starmind</strong>. La FCC no habla de satélites a secas, sino de «módulos de computación orbital». Se comunicarán sobre todo con láser con otros satélites, incluidos los de Starlink, y llevarán una radio de reserva. Según Via Satellite, cada uno dedicaría de media unos 175 kilovatios (hasta 250) a computación y radiadores desplegables para soltar el calor."
+    },
+    {
+      "h2": "Los plazos: esto va para largo"
+    },
+    {
+      "p": "Nadie va a ver un millón de satélites el mes que viene. La FCC ha puesto un calendario por fases:"
+    },
+    {
+      "ul": [
+        "Al menos <strong>un satélite</strong> antes del 25 de noviembre de 2033.",
+        "El 10 % (<strong>100.000</strong>) antes del 25 de noviembre de 2035.",
+        "La mitad (<strong>500.000</strong>) antes del 25 de noviembre de 2038.",
+        "El <strong>millón completo</strong> antes del 25 de noviembre de 2040."
+      ]
+    },
+    {
+      "p": "Y ojo: según SiliconANGLE, si SpaceX incumple uno solo, pierde la licencia. Esos son los plazos máximos. SpaceX habla de lanzar antes, aunque sus propias fechas bailan: Elon Musk y Gwynne Shotwell han hablado de 2027, pero, según CBS, el folleto de su salida a bolsa dice «as early as 2028» (en 2028 como pronto). Para hacerte una idea de la escala, hoy hay en órbita algo más de 10.000 satélites Starlink."
+    },
+    {
+      "p": "Los satélites irán entre <strong>500 y unos 1.000 kilómetros</strong> de altura, repartidos en seis capas. En su solicitud original, SpaceX pedía llegar hasta 2.000 kilómetros; lo aprobado se queda en unos 1.000."
+    },
+    {
+      "h2": "Por qué no todo el mundo aplaude"
+    },
+    {
+      "p": "Amazon, la operadora de satélites Viasat y la Sociedad Astronómica Estadounidense (AAS) pidieron que se denegara el permiso. La FCC rechazó sus peticiones. La AAS se ha declarado «disheartened and dismayed» (desanimada y consternada), porque habrá satélites más grandes, más brillantes y muchísimos más que estropean las observaciones del cielo."
+    },
+    {
+      "p": "El astrofísico Adam Becker, en declaraciones a AP, fue directo: «It's not going to happen» (no va a pasar). Le preocupan las colisiones en cadena que podrían llenar la órbita de basura espacial, la contaminación del cielo nocturno y un problema físico de fondo: en el vacío no hay aire, así que <strong>quitarse el calor de encima es mucho más difícil</strong> de lo que parece."
+    },
+    {
+      "p": "Eso sí, la FCC no lo ha dejado todo atado. Según SiliconANGLE, el plan de SpaceX contra la basura espacial solo cumple las normas por debajo de 600 kilómetros (y cuatro de las seis capas están por encima), así que antes de subir más arriba tendrá que presentar un plan definitivo. En cambio, según Via Satellite, el regulador ha calificado de «especulativo» el temor al efecto en la atmósfera de tantos satélites ardiendo al reentrar, y, según AP, considera que los asuntos ambientales no son de su competencia."
+    },
+    {
+      "h2": "¿Y a ti en qué te afecta?"
+    },
+    {
+      "p": "De momento, en nada: no hay ni un solo satélite Starmind en órbita. Pero es una pista clara de hacia dónde va la carrera de la IA, que necesita cada vez más electricidad. SpaceX no está sola: según Via Satellite, la FCC tiene pendientes otros proyectos parecidos, como uno de Starcloud con 88.000 satélites y otro de Blue Origin con 51.600."
+    },
+    {
+      "p": "La gran pregunta es si el cielo nocturno aguantará tanto tráfico. ¿Tú qué opinas: genialidad o locura orbital?"
+    }
   ],
   "fuentes": [
-    {"nombre": "CBS News – SpaceX gets FCC approval for 1 million satellites to build data centers in space, Brendan Carr says", "url": "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/"},
-    {"nombre": "AP (vía ABC News) – FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical", "url": "https://abcnews.com/US/wireStory/fcc-spacex-deploy-1-million-satellites-data-centers-138455857"},
-    {"nombre": "Via Satellite – FCC Approves SpaceX's 1-Million Satellite Orbital Data Center Constellation", "url": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/"},
-    {"nombre": "SiliconANGLE – FCC clears SpaceX to put up to 1 million Starmind data centers in space", "url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/"},
-    {"nombre": "Engadget – SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center", "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"},
-    {"nombre": "FCC – Space Bureau Accepts for Filing SpaceX's Application for Orbital Data Centers (DA 26-113)", "url": "https://docs.fcc.gov/public/attachments/DA-26-113A1.pdf"},
-    {"nombre": "BGR – How many Starlink satellites are in orbit today", "url": "https://www.bgr.com/2285873/how-many-starlink-satellites-are-in-orbit-today/"}
+    {
+      "nombre": "CBS News – SpaceX gets FCC approval for 1 million satellites to build data centers in space, Brendan Carr says",
+      "url": "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/"
+    },
+    {
+      "nombre": "AP (vía ABC News) – FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+      "url": "https://abcnews.com/US/wireStory/fcc-spacex-deploy-1-million-satellites-data-centers-138455857"
+    },
+    {
+      "nombre": "Via Satellite – FCC Approves SpaceX's 1-Million Satellite Orbital Data Center Constellation",
+      "url": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/"
+    },
+    {
+      "nombre": "SiliconANGLE – FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+      "url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/"
+    },
+    {
+      "nombre": "Engadget – SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+      "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+    },
+    {
+      "nombre": "FCC – Space Bureau Accepts for Filing SpaceX's Application for Orbital Data Centers (DA 26-113)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-113A1.pdf"
+    },
+    {
+      "nombre": "BGR – How many Starlink satellites are in orbit today",
+      "url": "https://www.bgr.com/2285873/how-many-starlink-satellites-are-in-orbit-today/"
+    }
   ],
   "imagen": {
-    "archivo": "SpaceX_logo_black.svg",
-    "alt": "Logotipo de SpaceX en negro",
-    "autor": "SpaceX",
+    "archivo": "The_launch_of_the_SpaceX_Starship_6_rocket_seen_from_the_space_station_(iss072e220043).jpg",
+    "alt": "Lanzamiento de un cohete Starship de SpaceX visto desde la Estación Espacial Internacional",
+    "autor": "NASA",
     "licencia": "Dominio público",
-    "licencia_url": "https://commons.wikimedia.org/wiki/File:SpaceX_logo_black.svg",
-    "ajuste": "logo"
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:The_launch_of_the_SpaceX_Starship_6_rocket_seen_from_the_space_station_(iss072e220043).jpg"
   }
 }

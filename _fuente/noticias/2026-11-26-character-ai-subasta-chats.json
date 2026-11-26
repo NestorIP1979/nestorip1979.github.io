@@ -71,11 +71,11 @@
     }
   ],
   "imagen": {
-    "archivo": "Character.ai_2025_vector_logo.svg",
-    "alt": "Logotipo de Character.AI",
-    "autor": "Character Technologies",
-    "licencia": "Logotipo libre en Wikimedia Commons",
-    "licencia_url": "https://commons.wikimedia.org/wiki/File:Character.ai_2025_vector_logo.svg",
-    "ajuste": "logo"
+    "url": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/size/w1200/2026/10/oct-blog-header.jpg",
+    "fuente_url": "https://blog.character.ai/an-update-on-character-ai/",
+    "alt": "Imagen oficial del comunicado de Character.AI sobre su proceso de venta",
+    "autor": "Character.AI",
+    "licencia": "material oficial de prensa",
+    "licencia_url": "https://blog.character.ai/an-update-on-character-ai/"
   }
 }

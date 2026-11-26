@@ -6,39 +6,95 @@
   "categoria": "Videojuegos",
   "resumen": "La actualización 1.3 de EA Sports FC 27 añade como comentarista opcional al legendario narrador de la BBC, fallecido en 2023, recreado con inteligencia artificial y con permiso de su familia. Te contamos cómo activarlo y por qué ha montado tanto revuelo.",
   "cuerpo": [
-    {"p": "Si jugaste a los FIFA de los años 90 en versión inglesa, seguro que te suena una voz: la de <strong>John Motson</strong>, el mítico comentarista de la BBC. Pues ha vuelto, y no, no es un truco de magia. EA Sports FC 27 lo recupera como narrador desde hoy, 26 de noviembre, con un detalle que lo cambia todo: Motson murió en 2023, y lo que vas a oír es en parte <strong>una recreación hecha con inteligencia artificial</strong>."},
-    {"h2": "Qué llega exactamente al juego"},
-    {"p": "La novedad viene con la <strong>actualización 1.3</strong>, que sale en PlayStation, Xbox, PC y Nintendo Switch. Según EA, es totalmente <strong>opcional</strong>: entras en los ajustes de audio, cambias la opción de comentarios y eliges a John Motson. Si prefieres a los narradores de siempre, no tienes que tocar nada."},
-    {"p": "Lo que suena es una mezcla. Por un lado, audio original de Motson; por otro, una voz generada por IA y entrenada con casi diez años de grabaciones que hizo para los juegos de EA."},
-    {"h2": "¿Por qué hace falta la IA?"},
-    {"p": "Por algo muy sencillo: no existen grabaciones de Motson diciendo los nombres de los futbolistas de hoy. Un narrador de fútbol que no puede nombrar a los jugadores no sirve de mucho, y ahí entra la IA. Mat Prior, director sénior de diseño del juego, contó a la BBC que era la «única manera» de hacerlo."},
-    {"p": "También ha querido calmar los ánimos. Según Realsport101, aseguró: «It's not there to replace commentators in any way, shape or form», es decir, que no está ahí para sustituir a los comentaristas de ninguna manera. Y, según Prior, no habrían seguido adelante sin el apoyo total de la familia."},
-    {"h2": "Qué dice la familia"},
-    {"p": "La viuda y el hijo de Motson dieron su permiso. Según la BBC, EA pagó a la familia por los derechos de su voz e imagen, aunque no se ha dicho cuánto. Su hijo, Fred Motson, lo ve como un homenaje: «My father adored being the voice of the game» (a mi padre le encantaba ser la voz del juego). A la BBC le dijo que su padre lo habría querido «sin ninguna duda», aunque no cree que hubiera entendido del todo lo que hace la IA por dentro."},
-    {"h2": "Y por qué hay tanto revuelo"},
-    {"p": "En Reddit la comunidad está partida en dos. Hay quien se ha emocionado con la nostalgia y quien lo encuentra directamente siniestro: comentarios como «gross», «shameful» o «bleak» (asqueroso, vergonzoso, deprimente) aparecen en los hilos, según recoge PC Gamer."},
-    {"p": "La crítica más dura llega de Save Our Voices Now, una iniciativa contra la clonación de voces. Su fundador, Peter Caulfield, defendió en la BBC que, vivo o muerto, nadie debería ser clonado con IA si no lo ha aceptado expresamente, y que ser de la familia no debería dar ese derecho de forma automática."},
-    {"p": "Entre los profesionales hay de todo. Según Digital Trends, Guy Mowbray, otro comentarista de la BBC que pone voz al juego, lo ve como un uso de la IA «que no da miedo». Derek Rae, que comenta en los juegos de EA desde 2019, cree que la IA puede servir para decir apellidos, pero que el humor y la personalidad tienen que venir de una persona."},
-    {"h2": "Un poco de historia"},
-    {"p": "Motson fue la voz de los juegos de fútbol de EA durante una década, desde FIFA 96 hasta FIFA 2005; en 2006 le tomó el relevo Clive Tyldesley. Murió en 2023, a los 77 años, después de comentar más de 2.500 partidos para la BBC. Según la BBC, es la primera vez que una saga de EA Sports recupera a un comentarista fallecido."},
-    {"p": "Ahora te toca a ti: ¿activarías a Motson en tu próxima partida o te parece que hay voces que es mejor dejar descansar?"}
+    {
+      "p": "Si jugaste a los FIFA de los años 90 en versión inglesa, seguro que te suena una voz: la de <strong>John Motson</strong>, el mítico comentarista de la BBC. Pues ha vuelto, y no, no es un truco de magia. EA Sports FC 27 lo recupera como narrador desde hoy, 26 de noviembre, con un detalle que lo cambia todo: Motson murió en 2023, y lo que vas a oír es en parte <strong>una recreación hecha con inteligencia artificial</strong>."
+    },
+    {
+      "h2": "Qué llega exactamente al juego"
+    },
+    {
+      "p": "La novedad viene con la <strong>actualización 1.3</strong>, que sale en PlayStation, Xbox, PC y Nintendo Switch. Según EA, es totalmente <strong>opcional</strong>: entras en los ajustes de audio, cambias la opción de comentarios y eliges a John Motson. Si prefieres a los narradores de siempre, no tienes que tocar nada."
+    },
+    {
+      "p": "Lo que suena es una mezcla. Por un lado, audio original de Motson; por otro, una voz generada por IA y entrenada con casi diez años de grabaciones que hizo para los juegos de EA."
+    },
+    {
+      "h2": "¿Por qué hace falta la IA?"
+    },
+    {
+      "p": "Por algo muy sencillo: no existen grabaciones de Motson diciendo los nombres de los futbolistas de hoy. Un narrador de fútbol que no puede nombrar a los jugadores no sirve de mucho, y ahí entra la IA. Mat Prior, director sénior de diseño del juego, contó a la BBC que era la «única manera» de hacerlo."
+    },
+    {
+      "p": "También ha querido calmar los ánimos. Según Realsport101, aseguró: «It's not there to replace commentators in any way, shape or form», es decir, que no está ahí para sustituir a los comentaristas de ninguna manera. Y, según Prior, no habrían seguido adelante sin el apoyo total de la familia."
+    },
+    {
+      "h2": "Qué dice la familia"
+    },
+    {
+      "p": "La viuda y el hijo de Motson dieron su permiso. Según la BBC, EA pagó a la familia por los derechos de su voz e imagen, aunque no se ha dicho cuánto. Su hijo, Fred Motson, lo ve como un homenaje: «My father adored being the voice of the game» (a mi padre le encantaba ser la voz del juego). A la BBC le dijo que su padre lo habría querido «sin ninguna duda», aunque no cree que hubiera entendido del todo lo que hace la IA por dentro."
+    },
+    {
+      "h2": "Y por qué hay tanto revuelo"
+    },
+    {
+      "p": "En Reddit la comunidad está partida en dos. Hay quien se ha emocionado con la nostalgia y quien lo encuentra directamente siniestro: comentarios como «gross», «shameful» o «bleak» (asqueroso, vergonzoso, deprimente) aparecen en los hilos, según recoge PC Gamer."
+    },
+    {
+      "p": "La crítica más dura llega de Save Our Voices Now, una iniciativa contra la clonación de voces. Su fundador, Peter Caulfield, defendió en la BBC que, vivo o muerto, nadie debería ser clonado con IA si no lo ha aceptado expresamente, y que ser de la familia no debería dar ese derecho de forma automática."
+    },
+    {
+      "p": "Entre los profesionales hay de todo. Según Digital Trends, Guy Mowbray, otro comentarista de la BBC que pone voz al juego, lo ve como un uso de la IA «que no da miedo». Derek Rae, que comenta en los juegos de EA desde 2019, cree que la IA puede servir para decir apellidos, pero que el humor y la personalidad tienen que venir de una persona."
+    },
+    {
+      "h2": "Un poco de historia"
+    },
+    {
+      "p": "Motson fue la voz de los juegos de fútbol de EA durante una década, desde FIFA 96 hasta FIFA 2005; en 2006 le tomó el relevo Clive Tyldesley. Murió en 2023, a los 77 años, después de comentar más de 2.500 partidos para la BBC. Según la BBC, es la primera vez que una saga de EA Sports recupera a un comentarista fallecido."
+    },
+    {
+      "p": "Ahora te toca a ti: ¿activarías a Motson en tu próxima partida o te parece que hay voces que es mejor dejar descansar?"
+    }
   ],
   "fuentes": [
-    {"nombre": "EA SPORTS FC 27 – Pitch Notes: Title Update v1.3", "url": "https://www.ea.com/games/ea-sports-fc/fc-27/news/update-v1-3-pitch-notes"},
-    {"nombre": "EA SPORTS FC 27 – Homenaje a John Motson (nota oficial)", "url": "https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-john-motson-tribute"},
-    {"nombre": "PC Gamer – Deceased BBC football commentator resurrected with AI for EA Sports FC", "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/"},
-    {"nombre": "Digital Trends – EA Sports FC 27's surprise new commentator is a legend who died in 2023", "url": "https://www.digitaltrends.com/gaming/ea-sports-fc-27s-newest-commentator-is-a-legend-who-died-in-2023/"},
-    {"nombre": "Gamereactor – EA Sports FC 27 adds AI-recreated voice of late commentator John Motson", "url": "https://www.gamereactor.eu/ea-sports-fc-27-john-motson-ai-commentary/"},
-    {"nombre": "Player.One – EA Sports FC 27 Update 1.3.0 uses AI to recreate John Motson's commentary with his family's blessing", "url": "https://www.player.one/ea-sports-fc-27-update-130-uses-ai-recreate-john-motsons-commentary-his-familys-blessing-164623"},
-    {"nombre": "Realsport101 – EA FC 27 is using AI to resurrect late commentator John Motson's voice", "url": "https://realsport101.com/article/ea-fc-27-is-using-ai-to-resurrect-late-commentator-john-motsons-voice"},
-    {"nombre": "Dexerto – EA FC 27 adds AI-generated commentary from iconic commentator", "url": "https://www.dexerto.com/ea-sports-fc/ea-fc-27-adds-ai-generated-commentary-from-iconic-commentator-3431237/"}
+    {
+      "nombre": "EA SPORTS FC 27 – Pitch Notes: Title Update v1.3",
+      "url": "https://www.ea.com/games/ea-sports-fc/fc-27/news/update-v1-3-pitch-notes"
+    },
+    {
+      "nombre": "EA SPORTS FC 27 – Homenaje a John Motson (nota oficial)",
+      "url": "https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-john-motson-tribute"
+    },
+    {
+      "nombre": "PC Gamer – Deceased BBC football commentator resurrected with AI for EA Sports FC",
+      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/"
+    },
+    {
+      "nombre": "Digital Trends – EA Sports FC 27's surprise new commentator is a legend who died in 2023",
+      "url": "https://www.digitaltrends.com/gaming/ea-sports-fc-27s-newest-commentator-is-a-legend-who-died-in-2023/"
+    },
+    {
+      "nombre": "Gamereactor – EA Sports FC 27 adds AI-recreated voice of late commentator John Motson",
+      "url": "https://www.gamereactor.eu/ea-sports-fc-27-john-motson-ai-commentary/"
+    },
+    {
+      "nombre": "Player.One – EA Sports FC 27 Update 1.3.0 uses AI to recreate John Motson's commentary with his family's blessing",
+      "url": "https://www.player.one/ea-sports-fc-27-update-130-uses-ai-recreate-john-motsons-commentary-his-familys-blessing-164623"
+    },
+    {
+      "nombre": "Realsport101 – EA FC 27 is using AI to resurrect late commentator John Motson's voice",
+      "url": "https://realsport101.com/article/ea-fc-27-is-using-ai-to-resurrect-late-commentator-john-motsons-voice"
+    },
+    {
+      "nombre": "Dexerto – EA FC 27 adds AI-generated commentary from iconic commentator",
+      "url": "https://www.dexerto.com/ea-sports-fc/ea-fc-27-adds-ai-generated-commentary-from-iconic-commentator-3431237/"
+    }
   ],
   "imagen": {
-    "archivo": "EA_Sports_FC_logo.svg",
-    "alt": "Logotipo de EA Sports FC",
+    "url": "https://s25.q4cdn.com/103200307/files/doc_multimedia/2026/9/1011579276/Copy_of_EA_FC27_STD_KEYART_RGB_16x9_1920x1080.jpg",
+    "fuente_url": "https://news.ea.com/press-releases/press-releases-details/2026/EA-SPORTS-FC-27-Is-Available-Now-Bringing-New-Ways-to-Play-The-Worlds-Game/default.aspx",
+    "alt": "Arte oficial de portada de EA Sports FC 27",
     "autor": "Electronic Arts",
-    "licencia": "Dominio público",
-    "licencia_url": "https://commons.wikimedia.org/wiki/File:EA_Sports_FC_logo.svg",
-    "ajuste": "logo"
+    "licencia": "material oficial de prensa",
+    "licencia_url": "https://news.ea.com/press-releases/press-releases-details/2026/EA-SPORTS-FC-27-Is-Available-Now-Bringing-New-Ways-to-Play-The-Worlds-Game/default.aspx"
   }
 }
