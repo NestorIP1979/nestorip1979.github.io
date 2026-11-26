@@ -53,3 +53,30 @@ nav a:hover{color:var(--acc)}
 .cover.photo.logo img{object-fit:contain;padding:12% 18%}
 .cover.photo.roto{background:linear-gradient(135deg,var(--c1),var(--c2))}
 .cover.photo.roto img,.cover.photo.roto figcaption{display:none}
+/* Portada: las 6 últimas noticias en una sola pantalla */
+.mosaico-titulo{font-size:1.05rem;margin:10px 0 8px;letter-spacing:.02em;text-transform:uppercase;color:var(--muted)}
+.mosaico{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(2,1fr);gap:10px;height:calc(100svh - 61px - 52px);min-height:420px;margin-bottom:24px}
+.tile{position:relative;border-radius:14px;overflow:hidden;background:#222}
+.tile .cover{position:absolute;inset:0;margin:0;aspect-ratio:auto;border-radius:0}
+.tile .cover.photo figcaption{top:0;bottom:auto;border-radius:0 0 0 8px;z-index:3}
+.tile-link{position:absolute;inset:0;z-index:2;display:flex;flex-direction:column;justify-content:flex-end;padding:14px 16px;text-decoration:none;color:#fff;background:linear-gradient(to top,rgba(0,0,0,.85) 0%,rgba(0,0,0,.45) 45%,rgba(0,0,0,0) 75%)}
+.tile-link .tag{color:#fca5a5;font-size:.72rem}
+.tile-link h2{margin:4px 0 0;font-size:clamp(.95rem,1.35vw,1.3rem);line-height:1.25;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;text-shadow:0 1px 3px rgba(0,0,0,.5)}
+.tile:hover .cover img{transform:scale(1.04)}
+.tile .cover img{transition:transform .3s}
+@media (max-width:760px){
+  .mosaico{grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(3,1fr);gap:8px;height:calc(100svh - 61px - 44px);min-height:520px}
+  .tile-link{padding:10px}
+  .tile-link h2{font-size:.85rem;-webkit-line-clamp:4}
+  .tile .cover.photo figcaption{font-size:.55rem;padding:2px 5px}
+}
+.tile .cover.photo figcaption{max-width:85%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+@media (max-width:760px){
+  .top-in{flex-wrap:nowrap;min-height:52px}
+  .logo{font-size:1.05rem;white-space:nowrap}
+  nav{flex-wrap:nowrap;overflow-x:auto;gap:12px;scrollbar-width:none}
+  nav::-webkit-scrollbar{display:none}
+  nav a{font-size:.8rem;white-space:nowrap}
+  .mosaico-titulo{font-size:.85rem;margin:8px 0 6px}
+  .mosaico{height:calc(100svh - 53px - 36px);min-height:460px}
+}

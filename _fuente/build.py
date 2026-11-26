@@ -158,6 +158,16 @@ def pagina(titulo, contenido, descripcion=None, canonical="/", extra_head=""):
 """
 
 
+def baldosa(n):
+    return f"""<article class="tile">
+  {portada(n, True)}
+  <a class="tile-link" href="{n['url']}">
+    <span class="tag">{e(n['categoria'])}</span>
+    <h2>{e(n['titulo'])}</h2>
+  </a>
+</article>"""
+
+
 def tarjeta(n, grande=False):
     cls = "card big" if grande else "card"
     return f"""<article class="{cls}">
@@ -207,13 +217,10 @@ def build():
     shutil.copy(SRC / "estilos.css", ROOT / "estilos.css")
 
     # portada
-    ultimas, resto = NOTICIAS[:2], NOTICIAS[2:]
-    portada_html = f"""<section class="hero">
-  <h1>Lo más viral de hoy</h1>
-  <p class="lead">{e(CFG['descripcion'])}</p>
-</section>
-<section class="destacadas">
-{''.join(tarjeta(n, True) for n in ultimas)}
+    ultimas, resto = NOTICIAS[:6], NOTICIAS[6:]
+    portada_html = f"""<h1 class="mosaico-titulo">Lo más viral ahora</h1>
+<section class="mosaico">
+{''.join(baldosa(n) for n in ultimas)}
 </section>
 {ad(CFG.get('adsense_slot_portada'))}
 """
