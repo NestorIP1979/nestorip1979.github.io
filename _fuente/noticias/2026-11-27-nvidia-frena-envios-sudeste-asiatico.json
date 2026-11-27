@@ -1,0 +1,52 @@
+{
+  "slug": "nvidia-frena-envios-sudeste-asiatico",
+  "titulo": "Nvidia echa el freno, según la prensa: pausa sus envíos de servidores de IA a cuatro países de Asia por las nuevas normas de EE. UU.",
+  "fecha": "2026-11-27",
+  "hora": "14:35",
+  "categoria": "Tecnología",
+  "resumen": "Según el Financial Times y el Wall Street Journal, Nvidia ha pausado los envíos de servidores de inteligencia artificial a Malasia, Singapur, Tailandia e Indonesia. El motivo: una nueva norma de EE. UU. que quiere cerrar el «truco» de alquilar chips en la nube desde China. Te explicamos qué pasa y por qué importa.",
+  "cuerpo": [
+    {"p": "Si la inteligencia artificial fuera una fiebre del oro, los chips de <strong>Nvidia</strong> serían los picos y las palas. Por eso cualquier movimiento de la empresa hace temblar medio sector. Y esta semana ha habido uno gordo. Según publicaron el 26 de noviembre el <em>Financial Times</em> y el <em>Wall Street Journal</em>, Nvidia ha <strong>pausado los envíos de servidores de IA a cuatro países del sudeste asiático</strong>: <strong>Malasia, Singapur, Tailandia e Indonesia</strong>."},
+    {"p": "Ojo a un detalle: de momento son informaciones de prensa. Los medios que lo cuentan hablan de que Nvidia lo habría hecho, no de un anuncio oficial de la compañía."},
+    {"h2": "¿Por qué ahí y por qué ahora?"},
+    {"p": "La clave está en Washington. A mediados de noviembre, el Departamento de Comercio de EE. UU. aprobó una norma que <strong>restringe el acceso remoto a los chips de IA más avanzados</strong>. De paso, anuló oficialmente otra norma anterior, la llamada «regla de difusión de la IA»."},
+    {"p": "¿Y qué es eso del acceso remoto? Te lo explicamos con un ejemplo. Estados Unidos lleva tiempo prohibiendo vender sus mejores chips a China. Pero había un atajo: en lugar de comprar los chips, una empresa china podía <strong>alquilarlos en la nube</strong>, en un centro de datos de otro país, y usarlos desde casa por internet. Los chips nunca pisaban China, pero el trabajo se hacía igual. La prensa especializada lo llama el «agujero de la nube», y es justo lo que la nueva norma quiere tapar."},
+    {"h2": "Ni una sola tarjeta gráfica"},
+    {"p": "La cosa va en serio. Según varios medios, los vendedores de chips de Nvidia están avisando a los proveedores de nube de que les cortarán el grifo si alquilan <strong>aunque sea una sola GPU</strong> (las tarjetas que hacen el trabajo pesado de la IA) a empresas chinas. Y según Tech Times, Nvidia habría pedido a fabricantes de servidores como Dell y Super Micro que paren sus envíos a la zona."},
+    {"p": "No es la primera vez que la zona está en el punto de mira. Ya en 2025, Singapur investigó un posible fraude con envíos de chips de Nvidia, y EE. UU. apuntó a Malasia y Tailandia en sus medidas contra el desvío de chips a China. Según Tecnogeek, la pausa llega además en medio de investigaciones por contrabando hacia China."},
+    {"h2": "Malasia, con los centros de datos en pausa"},
+    {"p": "En Malasia, por ejemplo, ya se nota. Los medios locales lo resumen con una frase muy clara: «sin permiso, no hay chips». Es decir, sin la licencia que ahora exige EE. UU., los proyectos de centros de datos se quedan congelados."},
+    {"h2": "¿Y a mí en qué me afecta?"},
+    {"p": "Más de lo que parece. Los chatbots, los generadores de imágenes y casi cualquier servicio de IA que usas funcionan sobre estos servidores. Si estos países se quedan sin ellos, los proyectos de IA de la zona podrían retrasarse. Y según CoinDesk, todo esto está metiendo presión a las acciones ligadas a la IA."},
+    {"p": "Lo que no se sabe todavía es cuánto durará la pausa ni si Nvidia lo confirmará con un comunicado. Mientras tanto, la guerra de los chips entre EE. UU. y China suma otro capítulo, y esta vez quienes pagan los platos rotos son los vecinos de China."},
+    {"p": "¿Crees que este tipo de normas sirven para algo o los chips siempre acaban encontrando otro camino?"}
+  ],
+  "fuentes": [
+    {"nombre": "TechCrunch – Nvidia hits pause on chip shipments to Southeast Asia", "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"},
+    {"nombre": "Yahoo News Malaysia – FT: Nvidia stops AI shipments to Malaysia, Singapore, Thailand, Indonesia as US tightens China curbs", "url": "https://malaysia.news.yahoo.com/ft-nvidia-stops-ai-shipments-053700267.html"},
+    {"nombre": "Benzinga – Nvidia pauses server shipments to 4 Southeast Asian nations as US tightens China AI chip controls: report", "url": "https://www.benzinga.com/markets/tech/26/11/63661506/nvidia-pauses-server-shipments-to-4-southeast-asian-nations-as-us-tightens-china-ai-chip-controls-report"},
+    {"nombre": "Forbes – Nvidia halts server shipments to 4 Southeast Asian countries amid new U.S. export curbs, report says", "url": "https://www.forbes.com/sites/siladityaray/2026/11/26/nvidia-reportedly-halts-ai-chip-shipments-to-southeast-asia-as-us-tightens-china-curbs/"},
+    {"nombre": "Semafor – Nvidia halts chip shipments to Southeast Asian countries", "url": "https://www.semafor.com/article/11/26/2026/nvidia-halts-chip-shipments-to-southeast-asian-countries"},
+    {"nombre": "El Español – Nvidia suspende los envíos de chips al sudeste asiático", "url": "https://www.elespanol.com/invertia/empresas/tecnologia/20261126/nvidia-suspende-envios-chips-sudeste-asiatico/1003744473225_0.html"},
+    {"nombre": "Infobae – Nvidia frenó el envío de servidores con chips de IA a cuatro países del sudeste asiático", "url": "https://www.infobae.com/tecno/2026/11/26/nvidia-freno-el-envio-de-servidores-con-chips-de-ia-a-cuatro-paises-del-sudeste-asiatico/"},
+    {"nombre": "WilmerHale – US Government restricts remote access to advanced AI chips and formally rescinds the AI Diffusion Rule", "url": "https://www.wilmerhale.com/en/insights/client-alerts/20261117-us-government-restricts-remote-access-to-advanced-ai-chips-and-formally-rescinds-the-ai-diffusion-rule"},
+    {"nombre": "Latham & Watkins – US Commerce Department adopts rule restricting remote access to advanced AI chips", "url": "https://www.lw.com/en/insights/us-commerce-department-adopts-rule-restricting-remote-access-to-advanced-ai-chips"},
+    {"nombre": "Nextgov/FCW – Commerce Department moves to close AI chip loophole", "url": "https://www.nextgov.com/artificial-intelligence/2026/11/commerce-department-moves-close-ai-chip-loophole/417255/"},
+    {"nombre": "Android Headlines – Nvidia sellers cut off cloud providers that rent even a single GPU to Chinese companies", "url": "https://www.androidheadlines.com/2026/11/nvidia-halts-ai-server-shipments-southeast-asia.html"},
+    {"nombre": "Business Standard – Nvidia chip sellers warn neoclouds against serving Chinese firms: report", "url": "https://www.business-standard.com/world-news/nvidia-chip-sellers-warn-neoclouds-against-serving-chinese-firms-report-126112700408_1.html"},
+    {"nombre": "Tech Times – Nvidia reportedly tells Dell and Super Micro to stop server shipments to Southeast Asia", "url": "https://www.techtimes.com/articles/331670/20261127/nvidia-reportedly-tells-dell-super-micro-stop-server-shipments-southeast-asia.htm"},
+    {"nombre": "The Rakyat Post – No permit, no chips: U.S. trade rule puts Malaysia's data centres on ice", "url": "https://www.therakyatpost.com/news/malaysia/2026/11/26/no-permit-no-chips-u-s-trade-rule-puts-malaysias-data-centres-on-ice/"},
+    {"nombre": "Tech Wire Asia – Nvidia halts server shipments to Malaysia as US rules hit China-linked data centres", "url": "https://techwireasia.com/2026/11/nvidia-server-shipments-malaysia-data-centres/"},
+    {"nombre": "Tecnogeek – Nvidia frena los envíos de chips de IA al sudeste asiático en medio de investigaciones por contrabando hacia China", "url": "https://tecnogeek.com/2026/11/26/nvidia-frena-los-envios-de-chips-de-ia-al-sudeste-asiatico-en-medio-de-investigaciones-por-contrabando-hacia-china"},
+    {"nombre": "Fortune – Singapore probes potential fraud in Nvidia AI chip shipments (2025)", "url": "https://fortune.com/asia/2025/03/03/singapore-probes-potential-fraud-in-nvidia-ai-chip-shipments/"},
+    {"nombre": "Malay Mail – Trump targets Malaysia and Thailand in new AI chip crackdown on China (2025)", "url": "https://www.malaymail.com/news/money/2025/07/05/trump-targets-malaysia-and-thailand-in-new-ai-chip-crackdown-on-china/182890"},
+    {"nombre": "CoinDesk – Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure", "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure"}
+  ],
+  "imagen": {
+    "archivo": "CSIRO_ScienceImage_11313_The_CSIRO_GPU_cluster_at_the_data_centre.jpg",
+    "alt": "Armarios de servidores con tarjetas gráficas (GPU) en un centro de datos",
+    "autor": "CSIRO",
+    "licencia": "CC BY 3.0",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11313_The_CSIRO_GPU_cluster_at_the_data_centre.jpg"
+  }
+}

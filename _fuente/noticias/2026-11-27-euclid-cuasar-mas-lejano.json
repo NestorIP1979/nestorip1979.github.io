@@ -1,0 +1,51 @@
+{
+  "slug": "euclid-cuasar-mas-lejano",
+  "titulo": "Euclid bate su propio récord: el cuásar más lejano, con un agujero negro de 360 millones de soles",
+  "fecha": "2026-11-27",
+  "hora": "14:30",
+  "categoria": "Espacio",
+  "resumen": "El telescopio espacial europeo Euclid ha encontrado el cuásar más lejano visto nunca: brillaba solo 630 millones de años después del Big Bang. El problema es que su agujero negro es sorprendentemente grande para lo joven que era el universo. Te lo contamos sin tecnicismos.",
+  "cuerpo": [
+    {"p": "Hay récords que tienen truco: cuando el único rival eres tú mismo. Eso le acaba de pasar a <strong>Euclid</strong>, el telescopio espacial de la Agencia Espacial Europea (ESA). En julio ya había encontrado el cuásar más antiguo conocido, y ahora ha ido más lejos todavía: ha cazado uno que vemos tal y como era <strong>solo 630 millones de años después del Big Bang</strong>. Son unos <strong>40 millones de años antes</strong> que su récord anterior."},
+    {"h2": "Primero, ¿qué es un cuásar?"},
+    {"p": "Imagina el centro de una galaxia donde vive un agujero negro gigantesco que se está «comiendo» todo el gas que tiene alrededor. Ese material brilla muchísimo. Eso es un cuásar: un faro cósmico alimentado por un agujero negro supermasivo. Y como brillan tanto, se pueden ver desde distancias enormes."},
+    {"p": "Aquí viene lo bonito: la luz tarda en llegar. Cuanto más lejos está algo, más antigua es la luz que recibimos. Así que ver un cuásar tan lejano es como mirar una foto del universo cuando era un bebé."},
+    {"h2": "El protagonista: J1504+6252, alias «Dún Aonghasa»"},
+    {"p": "El nuevo récord tiene nombre de matrícula, <strong>J1504+6252</strong>, pero también un apodo con más encanto: <strong>Dún Aonghasa</strong>, que es el nombre de un antiguo fuerte de piedra en las islas Aran, en Irlanda. Estos son sus datos principales:"},
+    {"ul": [
+      "<strong>Edad de la luz:</strong> lo vemos como era 630 millones de años después del Big Bang.",
+      "<strong>Distancia:</strong> los astrónomos la expresan con el «corrimiento al rojo», que en este caso es de 8,13. Traducido: lejísimos.",
+      "<strong>Su agujero negro:</strong> unos <strong>360 millones de veces la masa del Sol</strong>.",
+      "<strong>Comprobado dos veces:</strong> Euclid lo encontró y el telescopio James Webb ayudó a confirmarlo."
+    ]},
+    {"h2": "¿Y dónde está el misterio?"},
+    {"p": "El problema es de tiempo. Un agujero negro de 360 millones de soles no se forma de un día para otro: tiene que tragar muchísima materia. Y este lo hizo cuando el universo apenas había empezado. Para complicarlo más, según Tech Times, en la época en que lo vemos este agujero negro «comía» despacio, así que tuvo que crecer muy rápido antes, en muy poco tiempo."},
+    {"p": "Por eso los científicos dicen que el descubrimiento pone más difícil explicar cómo nacieron los primeros agujeros negros gigantes. No rompe nada, pero sí obliga a revisar las ideas sobre cómo se formaron los primeros agujeros negros gigantes. Es justo el tipo de pregunta que Euclid y Webb están ayudando a resolver."},
+    {"h2": "Un telescopio que no buscaba esto"},
+    {"p": "Lo curioso es que la misión principal de Euclid no es cazar cuásares. Es un «detective del universo oscuro»: su trabajo es estudiar la materia oscura, esa materia misteriosa que no podemos ver. Pero mientras mira el cielo para eso, de paso, se encuentra joyas como esta. Hace unos meses ya anunció decenas de cuásares nuevos en el universo primitivo, y parece que no ha terminado."},
+    {"p": "¿Te imaginas cuál será el próximo récord? Visto lo visto, lo más probable es que lo vuelva a batir el propio Euclid."}
+  ],
+  "fuentes": [
+    {"nombre": "ESA – Euclid breaks own quasar record by 40 million years", "url": "https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years"},
+    {"nombre": "Universidad de Leiden – Euclid breaks own quasar record by 40 million years", "url": "https://www.universiteitleiden.nl/en/news/2026/11/euclid-breaks-own-quasar-record-by-40-million-years"},
+    {"nombre": "Infobae – Euclid descubre el cuásar más distante hasta la fecha, observado tan solo 630 millones de años después del Big Bang", "url": "https://www.infobae.com/america/agencias/2026/11/24/euclid-descubre-el-cuasar-mas-distante-hasta-la-fecha-observado-tan-solo-630-millones-de-anos-despues-del-big-bang/"},
+    {"nombre": "La Jornada – Descubren el cuásar más lejano del universo y un agujero negro de 360 millones de soles", "url": "https://www.jornada.com.mx/noticia/2026/11/25/ciencias/descubren-el-cuasar-mas-lejano-del-universo-y-un-agujero-negro-de-360-millones-de-soles"},
+    {"nombre": "Gizmodo en Español – Euclid descubre el cuásar más lejano del universo y desafía las teorías sobre los agujeros negros", "url": "https://es.gizmodo.com/euclid-descubre-el-cuasar-mas-lejano-del-universo-y-desafia-las-teorias-sobre-los-agujeros-negros-2000274125"},
+    {"nombre": "Space.com – Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe", "url": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"},
+    {"nombre": "Phys.org – New quasar record tightens constraints on black hole formation scenarios", "url": "https://phys.org/news/2026-11-quasar-tightens-constraints-black-hole.html"},
+    {"nombre": "Nature World News – Euclid and Webb confirm the most distant quasar yet, 630 million years after the Big Bang", "url": "https://www.natureworldnews.com/articles/74043/20261124/euclid-webb-confirm-most-distant-quasar-yet-630-million-years-after-big-bang.htm"},
+    {"nombre": "Tech Times – Most distant quasar found by Euclid: slow-feeding black hole needed rapid early growth", "url": "https://www.techtimes.com/articles/331465/20261124/most-distant-quasar-found-euclid-telescope-slow-feeding-black-hole-needed-rapid-early-growth.htm"},
+    {"nombre": "New Space Economy – Euclid finds a quasar from 630 million years after the Big Bang (J1504+6252, z = 8,13)", "url": "https://newspaceeconomy.ca/2026/11/25/euclid-quasar-j1504-6252-redshift-8-13/"},
+    {"nombre": "Universe Today – Euclid's record-setting quasar probes black hole formation", "url": "https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation"},
+    {"nombre": "ESA – Euclid discovers the most ancient quasar in the Universe (julio de 2026)", "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid_discovers_the_most_ancient_quasar_in_the_Universe"},
+    {"nombre": "Universidad de Leiden – Euclid spots dozens of quasars in the early universe (julio de 2026)", "url": "https://www.universiteitleiden.nl/en/news/2026/07/euclid-spots-dozens-of-quasars-in-the-early-universe"},
+    {"nombre": "Wikipedia – Dún Aonghasa", "url": "https://en.wikipedia.org/wiki/Dun_Aonghasa"}
+  ],
+  "imagen": {
+    "archivo": "Artist's_rendering_ULAS_J1120+0641.jpg",
+    "alt": "Ilustración artística de un cuásar muy lejano: un disco de gas brillante alrededor de un agujero negro supermasivo (no es el cuásar de la noticia, sino otro anterior, ULAS J1120+0641)",
+    "autor": "ESO / M. Kornmesser",
+    "licencia": "CC BY 4.0",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Artist's_rendering_ULAS_J1120+0641.jpg"
+  }
+}
