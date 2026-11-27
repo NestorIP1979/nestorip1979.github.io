@@ -1,0 +1,45 @@
+{
+  "slug": "ley-cuantica-europa-fondo",
+  "titulo": "Europa se pone seria con la cuántica: una ley y un fondo de al menos 50.000 millones para no quedarse atrás frente a EE. UU. y China",
+  "fecha": "2026-11-27",
+  "hora": "07:45",
+  "categoria": "Tecnología",
+  "resumen": "La Comisión Europea ha propuesto una Ley Cuántica y un fondo para invertir en empresas europeas de computación cuántica e inteligencia artificial. Te explicamos qué es eso de la cuántica, qué propone Bruselas y por qué tiene que ver con la seguridad de tus datos.",
+  "cuerpo": [
+    {"p": "Si cuando oyes «ordenador cuántico» te imaginas algo de película de ciencia ficción, no vas tan desencaminado… pero en Bruselas se lo toman muy en serio. El 25 de noviembre, la Comisión Europea propuso dos cosas a la vez: una <strong>Ley Cuántica</strong> (Quantum Act) y un nuevo <strong>Fondo de Capital para la Tecnología Soberana</strong>, con el que quiere movilizar <strong>al menos 50.000 millones de euros</strong>. La idea de fondo es clara: que Europa deje de ir a remolque de Estados Unidos y China en las tecnologías que vienen."},
+    {"h2": "Primero, ¿qué es eso de la cuántica?"},
+    {"p": "Tu ordenador o tu móvil trabajan con bits, que son ceros o unos. Un ordenador cuántico usa <strong>cúbits</strong>, que aprovechan las reglas tan raras de la física de lo muy pequeño para atacar ciertos cálculos de una forma totalmente distinta. No te va a servir para jugar ni para mirar el correo, pero promete resolver problemas que hoy son imposibles, como diseñar materiales o medicamentos nuevos."},
+    {"p": "Eso sí, tiene un lado inquietante: una máquina cuántica lo bastante potente podría romper buena parte de los sistemas de cifrado que hoy protegen tus mensajes, tus compras o tu banco. Por eso se habla tanto de la <strong>criptografía poscuántica</strong>: candados nuevos pensados para resistir a esas máquinas."},
+    {"h2": "Qué propone Bruselas"},
+    {"ul": [
+      "<strong>Dinero para crecer.</strong> El fondo invertiría en empresas europeas de cuántica y de inteligencia artificial, para tapar el hueco de financiación que frena su crecimiento.",
+      "<strong>Comprar europeo.</strong> Los contratos públicos de tecnología cuántica quedarían reservados a empresas bajo control europeo. Según TechTimes, lo que cuenta es quién manda en la empresa, no quién es su dueño.",
+      "<strong>Metas con fecha.</strong> Bruselas quiere que Europa sea líder mundial en cuántica en 2030. Según The Terminal, la meta es llegar a 100 cúbits lógicos en 2030, y según El Español, a miles en 2035. Un cúbit lógico es, para entendernos, un cúbit «fiable», hecho con varios cúbits normales que se vigilan entre sí para corregir errores, justo lo que más cuesta conseguir.",
+      "<strong>Preparar los candados.</strong> La ley también busca preparar el paso a la criptografía poscuántica, para que nuestros datos sigan a salvo cuando lleguen esas máquinas."
+    ]},
+    {"h2": "¿Y a mí qué me cambia?"},
+    {"p": "Hoy por hoy, nada: es una propuesta, y ahora tendrán que negociarla los gobiernos de la UE y el Parlamento Europeo. Además, quedan cabos sueltos. Esos 50.000 millones son lo que Bruselas quiere movilizar, pero según el medio i10x la ley no fija todavía un presupuesto concreto para el fondo y las inversiones en inteligencia artificial no empezarían hasta 2028."},
+    {"p": "Pero la parte de la seguridad sí te toca, aunque no la veas. Que Europa tenga sus propios ordenadores cuánticos y sus propias empresas significa no depender de lo que decidan en Washington o en Pekín sobre una tecnología que puede acabar protegiendo (o poniendo en riesgo) los datos de todos."},
+    {"p": "¿Crees que Europa llega a tiempo a esta carrera, o ya va demasiado tarde?"}
+  ],
+  "fuentes": [
+    {"nombre": "Comisión Europea (Representación en España) – La Comisión propone la Ley Cuántica y un nuevo Fondo de Capital para la Tecnología Soberana", "url": "https://spain.representation.ec.europa.eu/noticias-eventos/noticias-0/la-comision-propone-la-ley-cuantica-y-un-nuevo-fondo-de-capital-para-la-tecnologia-soberana-para-2026-11-25_es"},
+    {"nombre": "Comisión Europea – Commission proposes Quantum Act and new Sovereign Tech Equity Fund", "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial"},
+    {"nombre": "Euronews – La UE presenta su Ley de Cuántica y busca movilizar 50.000 millones de euros", "url": "https://es.euronews.com/2026/11/25/la-ue-presenta-el-quantum-act-y-el-fondo-stef-para-invertir-50000-millones-en-cuantica-y-i"},
+    {"nombre": "El Español – Bruselas pide un fondo de al menos 50.000 millones para llevar la industria cuántica europea al liderazgo", "url": "https://www.elespanol.com/invertia/empresas/tecnologia/20261125/bruselas-pide-fondo-millones-llevar-industria-cuantica-europea-liderazgo/1003744471702_0.html"},
+    {"nombre": "El Español – Quantum Act: contratación pública reservada a empresas europeas y miles de cúbits lógicos en 2035", "url": "https://www.elespanol.com/invertia/disruptores/politica-digital/europa/20261125/quantum-act-contratacion-publica-reservada-empresas-europeas-miles-cubits-logicos/1003744469574_0.html"},
+    {"nombre": "Science|Business – EU plans €50B tech equity fund to fill financing gap", "url": "https://sciencebusiness.net/news/quantum-computing/eu-plans-eu50b-tech-equity-fund-fill-financing-gap"},
+    {"nombre": "TechTimes – EU Quantum Act proposal would tie public quantum contracts to EU control, not EU ownership", "url": "https://www.techtimes.com/articles/331585/20261126/eu-quantum-act-proposal-would-tie-public-quantum-contracts-eu-control-not-eu-ownership.htm"},
+    {"nombre": "The Terminal – EU Quantum Act: 100 logical qubits by 2030, fund unpriced", "url": "https://theterminal.space/hardware/eu-quantum-act-100-logical-qubits-fund-unpriced"},
+    {"nombre": "Quantum Computing Report – European Commission proposes EU Quantum Act and Sovereign Tech Equity Fund to scale industrial capacity by 2030", "url": "https://quantumcomputingreport.com/european-commission-proposes-eu-quantum-act-and-sovereign-tech-equity-fund-to-scale-industrial-capacity-by-2030/"},
+    {"nombre": "MLQ.ai – EU proposes a Quantum Act to turn quantum research into industry and prepare for post-quantum cryptography", "url": "https://mlq.ai/news/eu-proposes-a-quantum-act-to-turn-quantum-research-into-industry-and-prepare-for-post-quantum-cryptography/"},
+    {"nombre": "i10x – EU Sovereign Tech Equity Fund: no budget in the law, AI tickets from 2028", "url": "https://i10x.ai/news/eu-sovereign-tech-equity-fund-quantum-act-ai-no-budget-2028"}
+  ],
+  "imagen": {
+    "archivo": "IQM_Quantum_Computer_Espoo_Finland.jpg",
+    "alt": "Ordenador cuántico de la empresa europea IQM en Espoo (Finlandia)",
+    "autor": "Wikimedia Commons",
+    "licencia": "Licencia libre (ver ficha)",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:IQM_Quantum_Computer_Espoo_Finland.jpg"
+  }
+}

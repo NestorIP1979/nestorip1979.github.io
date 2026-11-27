@@ -1,0 +1,46 @@
+{
+  "slug": "hera-crater-dimorphos",
+  "titulo": "Así quedó el asteroide que la NASA embistió en 2022: la sonda Hera descubre un cráter del tamaño de un estadio",
+  "fecha": "2026-11-27",
+  "hora": "07:40",
+  "categoria": "Espacio",
+  "resumen": "La sonda europea Hera ha enviado las primeras imágenes de cerca de Dimorphos, el pequeño asteroide contra el que se estrelló la misión DART. Tiene un cráter enorme, una cara aplastada y ahora gira dando tumbos. Te contamos qué se ha visto y por qué importa.",
+  "cuerpo": [
+    {"p": "¿Te acuerdas de cuando la NASA estrelló una nave contra un asteroide a propósito para ver si podíamos desviarlo? Fue en septiembre de 2022. Pues cuatro años después alguien ha ido por fin a ver cómo quedó la escena del choque. La Agencia Espacial Europea (ESA) presentó el 25 de noviembre las primeras imágenes de cerca de <strong>Dimorphos</strong> tomadas por su sonda <strong>Hera</strong>, y la foto impresiona: un cráter <strong>del tamaño de un estadio de fútbol</strong>."},
+    {"h2": "Un poco de contexto (sin tecnicismos)"},
+    {"p": "Dimorphos es una roca espacial pequeña que da vueltas alrededor de otro asteroide más grande, Didymos. En 2022, la misión DART de la NASA chocó contra Dimorphos para comprobar si un golpe así podía cambiar el camino de un asteroide. Y funcionó: según la NASA, su vuelta alrededor de Didymos se acortó unos 32 minutos."},
+    {"p": "Lo que faltaba era saber cómo había quedado la roca. DART no sobrevivió para contarlo, así que hacía falta un «detective» que fuera a mirar con calma. Ese es el trabajo de Hera, que despegó el 7 de octubre de 2024 a bordo de un Falcon 9 de SpaceX y que este mes, tras dos años de viaje, empezó a inspeccionar de cerca a la pareja de asteroides."},
+    {"h2": "Qué ha visto Hera"},
+    {"p": "Las primeras imágenes dejan varias sorpresas:"},
+    {"ul": [
+      "<strong>Un cráter enorme.</strong> La propia ESA lo compara con un estadio. Teniendo en cuenta que Dimorphos mide unos 151 metros, no es poca cosa: según el medio Click Petróleo e Gas, el agujero ocupa casi todo el ancho del asteroide.",
+      "<strong>Una cara aplastada.</strong> El golpe dejó aplanado el lado contra el que chocó DART. Ya en 2024 la ESA sospechaba que el impacto podía haber cambiado la forma de Dimorphos, y ahora se ve.",
+      "<strong>Gira dando tumbos.</strong> Dimorphos ya no gira de forma ordenada: ahora va dando vueltas de forma caótica, como una peonza mal lanzada.",
+      "<strong>Rocas de acompañantes.</strong> Según ese mismo medio, el asteroide arrastra cientos de rocas en su órbita."
+    ]},
+    {"h2": "¿Y esto para qué sirve?"},
+    {"p": "Puede parecer mucho esfuerzo para hacerle fotos a un pedrusco, pero tiene todo el sentido. Si algún día un asteroide viene hacia la Tierra, no basta con saber que se le puede dar un empujón: hay que saber cuánto empuja de verdad el golpe y cómo se deforma la roca. Con esos datos se puede calcular qué haría falta para desviar a otro. Las imágenes de Hera son la primera pieza de esa respuesta, y por eso se habla de la primera misión de <strong>defensa planetaria</strong> de Europa."},
+    {"p": "España también juega en este partido: la Universidad de Alicante participa en la misión y ha difundido los resultados del cráter, y el Instituto de Astrofísica de Canarias (IAC) también participa."},
+    {"p": "Y esto es solo el principio: son las primeras imágenes de cerca, y Hera acaba de llegar. Así que prepárate, porque Dimorphos todavía tiene mucho que contar."},
+    {"p": "¿Te quedas más tranquilo sabiendo que ya somos capaces de darle un empujón a un asteroide, o te da que pensar que haga falta practicarlo?"}
+  ],
+  "fuentes": [
+    {"nombre": "ESA – Hera reveals stadium-sized asteroid crater left after spacecraft impact", "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"},
+    {"nombre": "CNN – ESA mission reveals stadium-size crater left by first planetary defense test", "url": "https://www.cnn.com/2026/11/25/science/hera-mission-dimorphos-asteroid-arrival-images"},
+    {"nombre": "Universidad de Alicante – La sonda Hera observa un cráter «del tamaño de un estadio de fútbol» en el asteroide Dimorphos", "url": "https://web.ua.es/es/actualidad-universitaria/2026/noviembre2026/23-30/la-sonda-hera-observa-un-crater-del-tamano-de-un-estadio-de-futbol-en-el-asteroide-dimorphos-tras-el-impacto-de-dart.html"},
+    {"nombre": "Infobae – Cómo es el cráter del tamaño de un estadio que dejó el choque al asteroide Dimorphos", "url": "https://www.infobae.com/salud/ciencia/2026/11/26/mision-de-defensa-planetaria-como-es-el-crater-del-tamano-de-un-estadio-que-dejo-el-primer-choque-al-asteroide-dimorphos/"},
+    {"nombre": "Hardware Busters – ESA's Hera finds DART flattened one face of Dimorphos and left it tumbling", "url": "https://hwbusters.com/news/esas-hera-finds-dart-flattened-one-face-of-dimorphos-into-a-stadium-sized-crater-and-left-it-tumbling/"},
+    {"nombre": "Click Petróleo e Gas – El cráter ocupa casi todo el ancho del asteroide de 151 metros", "url": "https://es.clickpetroleoegas.com.br/sonda-hera-crater-dart-dimorphos-asteroide-151-metros-davila"},
+    {"nombre": "ESA – DART impact might have reshaped Hera's target asteroid", "url": "https://www.esa.int/Space_Safety/Hera/DART_impact_might_have_reshaped_Hera_s_target_asteroid"},
+    {"nombre": "The Planetary Society – Hera launches to study the aftermath of an asteroid deflection test", "url": "https://www.planetary.org/articles/hera-launches-to-study-the-aftermath-of-an-asteroid-deflection-test"},
+    {"nombre": "NASA – NASA confirms DART mission impact changed asteroid's motion in space", "url": "https://www.nasa.gov/news-release/nasa-confirms-dart-mission-impact-changed-asteroids-motion-in-space"},
+    {"nombre": "IAC – The IAC is participating in the first European planetary defence mission", "url": "https://iac.edu.es/en/outreach/news/iac-participating-first-european-planetary-defence-mission"}
+  ],
+  "imagen": {
+    "archivo": "Stacked_image_of_Dimorphos_true_orientation.jpg",
+    "alt": "El asteroide Dimorphos fotografiado por la nave DART de la NASA poco antes del impacto, cuando aún no tenía cráter",
+    "autor": "NASA / Johns Hopkins APL",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Stacked_image_of_Dimorphos_true_orientation.jpg"
+  }
+}
