@@ -1,0 +1,65 @@
+{
+  "slug": "gta-vi-critica-vs-jugadores",
+  "titulo": "GTA VI: un 99 para la crítica y un suspenso en la nota de los usuarios. ¿Qué está pasando?",
+  "fecha": "2026-11-28",
+  "hora": "07:50",
+  "categoria": "Videojuegos",
+  "resumen": "Una semana después de su estreno, GTA VI vive dos realidades: la crítica le pone un 99 y la nota de los usuarios en Metacritic ronda el 5. Te contamos de qué se quejan los jugadores, qué hay de cierto y qué ha arreglado ya Rockstar.",
+  "cuerpo": [
+    {"p": "Lleva poco más de una semana a la venta y <strong>Grand Theft Auto VI</strong> ya tiene dos notas que no se parecen en nada. La crítica le ha dado un <strong>99 en Metacritic</strong>. Los jugadores, en cambio, han dejado la nota de usuarios <strong>en torno a un 5</strong>. ¿Obra maestra o decepción? Pues depende de a quién preguntes y, sobre todo, de qué le haya pasado con el mando en la mano."},
+    {"h2": "De un 99 a un 5,6"},
+    {"p": "El 19 de noviembre llegó a PS5 y Xbox Series X|S, y en pocos días la puntuación de los usuarios se desplomó. Según Vandal, pasó a un <strong>5,6</strong>. Otras webs han visto cifras algo distintas (de 4,9 a 5,5) porque cambia casi a diario, pero la idea es la misma: miles de valoraciones negativas en poco tiempo. Es lo que se conoce como <em>review bombing</em>, un bombardeo de reseñas."},
+    {"p": "Ojo, que no todo es una queja sincera. Metacritic ha retirado reseñas falsas que estaban hundiendo la nota, según Windows Report y el medio polaco PPE.pl. Vamos, que parte del suspenso no venía de reseñas legítimas. Según PPE.pl, tras la limpieza la nota de usuarios llegó a un 6,5."},
+    {"h2": "De qué se quejan los jugadores"},
+    {"ul": [
+      "<strong>Los fallos técnicos</strong>: hay quejas por <em>bugs</em> y por cuelgues en PS5.",
+      "<strong>Los recados</strong>: a algunos les sobran los encargos.",
+      "<strong>La pareja</strong>: lo que más ruido está haciendo. Hay jugadores molestos porque Jason tiene que hacer recados para Lucía o comprarle flores, y algunos ya lo apodan «simulador de calzonazos».",
+      "<strong>Política</strong>: según LevelUp, parte de las reseñas negativas acusan al juego de «propaganda woke».",
+      "<strong>El final</strong>: según Cosmic Book News, algunos jugadores lo consideran el peor de toda la saga."
+    ]},
+    {"h2": "Lo de la pareja tiene truco"},
+    {"p": "Aquí conviene aclarar una cosa: <strong>cuidar la relación entre Jason y Lucía es opcional</strong>. Rockstar lo ha explicado: si quieres que el romance florezca, tienes que currártelo, pero no es algo que quieran «imponer» a nadie. Y la pareja puede incluso <strong>romper y seguir trabajando junta</strong> como socios criminales. Así que, si lo de comprar flores no va contigo, nadie te obliga."},
+    {"h2": "Rockstar ya ha sacado el primer parche"},
+    {"p": "Lo de los fallos sí tenía base, y Rockstar ha movido ficha rápido. El <strong>23 de noviembre</strong> publicó la primera actualización (la 01.002.002) para PS5 y Xbox, con <strong>siete arreglos</strong>. Entre ellos hay correcciones para:"},
+    {"ul": [
+      "los cuelgues del juego,",
+      "el autoguardado,",
+      "fallos con el nivel de búsqueda policial,",
+      "y problemas con la meteorología."
+    ]},
+    {"p": "No lo arregla todo, pero ataca justo algunos de los fallos de los que más se hablaba. Si tu partida se colgaba, actualiza antes de lanzarte a otro atraco."},
+    {"h2": "Mientras tanto, la caja registradora echa humo"},
+    {"p": "Y como dato de color, mientras en Metacritic llovían palos, en las tiendas el juego arrasaba: Take-Two, la dueña de Rockstar, asegura que GTA VI ha logrado <strong>3.790 millones de dólares en ventas minoristas el primer día</strong>, el mayor estreno de la historia del entretenimiento, por encima de cualquier taquilla de cine. También se ha convertido en el mayor lanzamiento de la historia en <em>streaming</em> (retransmisiones en directo), y, según Newscord, ya son <strong>30 millones de jugadores</strong>. Lo que está claro es que el ruido en Metacritic no ha impedido un estreno histórico."},
+    {"p": "La realidad, como casi siempre, está en medio: un juego enorme, con un mundo que la crítica adora, algunos fallos que ya se están corrigiendo y decisiones de diseño que no gustan a todos. ¿Y tú qué opinas? ¿Le pondrías un 99, un 5 o algo entre medias?"}
+  ],
+  "fuentes": [
+    {"nombre": "Vandal – De un 99 de la crítica a un 5,6 de los jugadores: GTA 6 sufre un review bombing masivo", "url": "https://vandal.elespanol.com/noticia/2026327003/de-un-99-de-la-critica-a-un-56-de-los-jugadores-gta-6-recibe-miles-de-valoraciones-negativas-en-metacritic/"},
+    {"nombre": "ixbt.games – 99 puntos de la crítica y 5,5 de los jugadores (21/11/2026)", "url": "https://ixbt.games/es/news/2026/11/21/99-ballov-ot-kritikov-i-55-ot-igrokov-gta-vi-podverglas-massovomu-reviu-bombingu.html"},
+    {"nombre": "Tribune – GTA 6 user score falls to 5.6 on Metacritic amid player backlash", "url": "https://tribune.com.pk/story/2641880/gta-6-user-score-falls-to-56-on-metacritic-amid-player-backlash"},
+    {"nombre": "Tecnología Geek – GTA VI en Metacritic pasa del 99 de la crítica al 4,9", "url": "https://tecnologiageek.com/gta-vi-en-metacritic-nota-de-usuarios/"},
+    {"nombre": "Windows Report – Metacritic removes fake GTA 6 reviews", "url": "https://windowsreport.com/?p=1516270"},
+    {"nombre": "PPE.pl – Metacritic usuwa oceny sfrustrowanych graczy", "url": "https://www.ppe.pl/news/433603/metacritic-usuwa-oceny-sfrustrowanych-graczy-ocenili-gta-6-na-6-5-10.html"},
+    {"nombre": "mlq.ai – GTA VI players give it a mixed user score as complaints over errands and PS5 crashes pile up", "url": "https://mlq.ai/news/gta-vi-players-give-it-a-mixed-user-score-against-critics-99-as-complaints-over-errands-and-ps5-crashes-pile-up/"},
+    {"nombre": "LevelUp – GTA 6 Is Being Review-Bombed (woke propaganda and bugs)", "url": "https://www.levelup.com/en/news/gta-6-is-being-review-bombed-receiving-terrible-user-reviews-criticizing-its-woke-propaganda-and-bugs/"},
+    {"nombre": "TechTimes – GTA 6 branded a 'Simp Simulator' over flowers and chores for Lucia", "url": "https://www.techtimes.co.uk/gta-6-backlash-relationship-gameplay-jason-lucia-1810188"},
+    {"nombre": "Cosmic Book News – GTA 6 players call the ending the worst in franchise history", "url": "https://cosmicbook.news/gta-6-ending"},
+    {"nombre": "TechRadar – Rockstar says GTA 6's romance between Jason and Lucia is completely optional", "url": "https://www.techradar.com/gaming/rockstar-says-if-you-want-gta-6s-romance-between-jason-and-lucia-to-flourish-you-have-to-nurture-it-but-its-completely-optional-its-not-something-that-we-want-to-foist-upon-players"},
+    {"nombre": "games.gg – GTA 6 lets Jason and Lucia break up but stay criminal partners", "url": "https://games.gg/news/gta-6-jason-lucia-break-up/"},
+    {"nombre": "Vice – GTA 6 Patch Update 01.002.002 is live on PS5 and Xbox Series X", "url": "https://www.vice.com/en/article/gta-6-update-01-002-002-patch-notes/"},
+    {"nombre": "Windows Report – GTA 6's post-launch update fixes crashes, autosaving, wanted levels, weather", "url": "https://windowsreport.com/gta-6-post-launch-update-for-ps5-xbox-series-xs-fixes-crashes-autosaving-wanted-levels-weather-and-more/"},
+    {"nombre": "GTA6Times – GTA 6 gets its first patch notes: 7 fixes", "url": "https://gta6times.com/news/gta-6-first-patch-notes-november-23-update"},
+    {"nombre": "Take-Two – Grand Theft Auto VI shatters entertainment box office records with $3.79 billion in day one retail sales", "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"},
+    {"nombre": "ABC News – GTA 6 breaks entertainment box office records with $3.79B in 1st-day sales", "url": "https://abcnews.com/GMA/Culture/grand-theft-auto-vi-breaks-1st-day-sales-record/story?id=138328412"},
+    {"nombre": "Gigantum – GTA 6 becomes biggest streaming launch ever", "url": "https://gigantum.net/article/news/world/04fbbb0fd4f24b"},
+    {"nombre": "Newscord – GTA VI becomes biggest launch ever, with 30 million players", "url": "https://newscord.org/article/grand-theft-auto-vi-becomes-biggest-launch-ever-with-30-million-players-and-379--Story_20261126_GrandTheftAutoVIprovf2572ce6"}
+  ],
+  "imagen": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Lucia_Lock_And_Load_With_Logos_landscape.13z.1pzvhq5dn.jpg",
+    "fuente_url": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
+    "alt": "Arte oficial de Grand Theft Auto VI con el logotipo del juego y sus protagonistas, Jason y Lucía",
+    "autor": "Rockstar Games",
+    "licencia": "material oficial de prensa",
+    "licencia_url": "https://www.rockstargames.com/VI/media/artwork-wallpapers"
+  }
+}

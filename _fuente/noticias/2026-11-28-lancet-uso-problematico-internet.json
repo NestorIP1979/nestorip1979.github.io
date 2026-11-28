@@ -1,0 +1,52 @@
+{
+  "slug": "lancet-uso-problematico-internet",
+  "titulo": "Una de cada diez personas hace un uso problemático de internet, según The Lancet, y los expertos apuntan al scroll infinito",
+  "fecha": "2026-11-28",
+  "hora": "07:45",
+  "categoria": "Internet",
+  "resumen": "Una comisión internacional de la revista The Lancet Psychiatry calcula que más del 10 % de la población mundial hace un uso problemático de internet y pide tratarlo como un asunto de salud pública. Y pone el foco en el diseño de las apps.",
+  "cuerpo": [
+    {"p": "Seguro que te ha pasado: abres el móvil para mirar una cosa, empiezas a deslizar el dedo y, cuando te das cuenta, ha pasado media hora. Pues no eres el único. Una comisión internacional de expertos acaba de publicar en la revista científica <strong>The Lancet Psychiatry</strong> un informe que calcula que <strong>más del 10 % de la población mundial</strong> hace un uso problemático de internet. Una de cada diez personas."},
+    {"h2": "¿De qué estamos hablando?"},
+    {"p": "El informe se titula <em>Comisión de The Lancet Psychiatry sobre la acción global frente al uso problemático de internet</em> y se publicó a mediados de noviembre."},
+    {"p": "Y no hablamos de una sola cosa. Según El Colombiano, entran en el saco el porno, las apuestas y los videojuegos. Según Yahoo Noticias (Reino Unido), los expertos también hablan de la <strong>cibercondría</strong> (la obsesión por buscar síntomas en internet), de la acumulación digital y de las compras compulsivas."},
+    {"h2": "El problema no es (solo) tu fuerza de voluntad"},
+    {"p": "Aquí viene lo interesante. La comisión no echa toda la culpa al usuario, sino que mira también a <strong>cómo están diseñadas las apps</strong>. En el punto de mira hay dos funciones que usas cada día sin pensarlo:"},
+    {"ul": [
+      "<strong>El scroll infinito</strong>: el contenido no se acaba nunca: siempre hay algo más debajo.",
+      "<strong>La reproducción automática</strong>: termina un vídeo y empieza otro sin que hagas nada."
+    ]},
+    {"p": "Los expertos piden <strong>regular estas funciones</strong> y que las tecnológicas asuman su parte de responsabilidad por diseñar aplicaciones que enganchan. Según Memesita, la comisión llega a plantear una regulación «al estilo del tabaco»."},
+    {"h2": "Un asunto de salud pública"},
+    {"p": "La gran petición del informe es que el uso problemático de internet <strong>se reconozca como un problema de salud pública mundial</strong>. Según el portal Medicina Responsable, los expertos piden anteponer la salud al negocio digital."},
+    {"p": "No es la primera vez que la medicina se fija en esto. En 2019, según recogió entonces NPR, la Organización Mundial de la Salud ya incluyó el <strong>trastorno por videojuegos</strong> en su lista de enfermedades. La diferencia es que ahora la lupa se abre a muchas más cosas que hacemos en internet."},
+    {"p": "El informe ha tenido eco en medios como Euronews o The Irish Times, y el Royal College of Psychiatrists británico ha publicado su propio comentario. En España, el Science Media Centre España, que reúne opiniones de expertos para los periodistas, ha recogido reacciones como la del investigador José Perales."},
+    {"h2": "¿Y qué significa esto para ti?"},
+    {"p": "Por ahora es un informe científico, no una ley, pero da argumentos a quienes quieren poner límites al diseño de las redes sociales. Mientras tanto, quédate con una idea que recoge la web Earth.com: dejar el móvil depende menos de tu fuerza de voluntad de lo que crees. Así que, si te cuesta, no te fustigues: las apps están hechas para que sigas."},
+    {"p": "¿Y tú? ¿Cuántas veces has abierto una app «solo un minuto» esta semana?"}
+  ],
+  "fuentes": [
+    {"nombre": "The Lancet Psychiatry – The Lancet Psychiatry Commission on global action on problematic usage of the internet", "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00243-9/abstract"},
+    {"nombre": "Euronews – El uso problemático de internet preocupa como nueva amenaza global para la salud pública (19/11/2026)", "url": "https://es.euronews.com/2026/11/19/el-uso-problematico-de-internet-preocupa-como-nueva-amenaza-global-para-la-salud-publica"},
+    {"nombre": "The Irish Times – Problematic internet use should be treated as a global health concern, researchers say (18/11/2026)", "url": "https://www.irishtimes.com/health/2026/11/18/problematic-internet-use-should-be-treated-as-a-global-health-concern-researchers-say/"},
+    {"nombre": "Qué! – El 10 % de la población mundial hace un uso problemático de internet (28/11/2026)", "url": "https://www.que.es/2026/11/28/uso-problematico-internet-lancet"},
+    {"nombre": "Medicina Responsable – Una de cada diez personas en el mundo sufre un uso problemático de internet", "url": "https://medicinaresponsable.com/salud-mental/una-cada-diez-personas-mundo-sufre-uso-problematico-internet-expertos-piden-anteponer-salud-negocio-digital"},
+    {"nombre": "El Colombiano – Porno, apuestas y videojuegos: expertos alertan por consumo problemático de internet", "url": "https://www.elcolombiano.com/tendencias/expertos-advierten-uso-problematico-de-internet-lancet-revista-FL43841260"},
+    {"nombre": "Yahoo News UK – Internet is driving cyberchondria, online hoarding and shopping addictions, warn experts", "url": "https://uk.news.yahoo.com/internet-driving-cyberchondria-online-hoarding-230100564.html"},
+    {"nombre": "Flinders University – Infinite scroll and autoplay are fuelling a global problem (19/11/2026)", "url": "https://news.flinders.edu.au/blog/2026/11/19/infinite-scroll-and-autoplay-are-fuelling-a-global-problem/"},
+    {"nombre": "Yahoo Noticias – Expertos piden regular el scroll infinito y responsabilizar a las tecnológicas por diseñar apps adictivas", "url": "https://es-us.noticias.yahoo.com/expertos-piden-regular-scroll-infinito-231703270.html"},
+    {"nombre": "Memesita – Lancet Psychiatry Commission urges tobacco-style regulation of infinite scroll, autoplay", "url": "https://www.memesita.com/lancet-psychiatry-commission-urges-tobacco-style-regulation-of-infinite-scroll-autoplay/"},
+    {"nombre": "Earth.com – Putting down your phone may have less to do with willpower than you think", "url": "https://www.earth.com/lifestyle/putting-down-your-phone-may-have-less-to-do-with-willpower-than-you-think/"},
+    {"nombre": "Internet and Me – International Lancet Psychiatry Commission: problematic usage of the internet has become a global public health concern", "url": "https://www.internetandme.eu/2026/11/19/international-lancet-psychiatry-commission-problematic-usage-of-the-internet-has-become-a-global-public-health-concern/"},
+    {"nombre": "Royal College of Psychiatrists – Comment on The Lancet Psychiatry's commission on problematic internet usage (19/11/2026)", "url": "https://www.rcpsych.ac.uk/news-and-features/latest-news/detail/2026/11/19/comment-on-the-lancet-psychiatry's-commission-on-problematic-internet-usage"},
+    {"nombre": "Science Media Centre España – Reacciones a la comisión sobre uso problemático de internet", "url": "https://sciencemediacentre.es/en/commission-calling-problematic-internet-use-be-recognised-global-health-issue-and-design-platforms"},
+    {"nombre": "NPR – Is 'Gaming Disorder' an illness? WHO says yes (28/05/2019)", "url": "https://www.npr.org/2019/05/28/727585904/is-gaming-disorder-an-illness-the-who-says-yes-adding-it-to..."}
+  ],
+  "imagen": {
+    "archivo": "Smartphone_in_Hand_(Unsplash).jpg",
+    "alt": "Una mano sosteniendo un teléfono móvil",
+    "autor": "Unsplash",
+    "licencia": "CC0",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Smartphone_in_Hand_(Unsplash).jpg"
+  }
+}
